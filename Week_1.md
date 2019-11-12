@@ -12,7 +12,23 @@
 
 ## Day 1
 
-Reflection with pair partner (Boris Bike):  
+### Debugging workshop  
+
+Use: error message
+1. Understand the problem (don’t take stabs in the dark)
+2. Fix it
+
+Bugs:
+- Syntax Error; compiler (e.g. IRB) doesn’t know what went wrong
+- Runtime Error; name error (haven’t declared the variable)
+- Program not terminating; infinite loop / code hangs
+- Unexpected results
+
+Tighten the loop = find the right line
+Get visibility = use ‘p’ to get visibility on each line
+Follow the stack trace
+
+### Reflection with pair partner (Boris Bike):  
 
 #### 1. TDD
 - We were diligent and methodical with writing tests before production code
@@ -24,7 +40,7 @@ Reflection with pair partner (Boris Bike):
 experimentation. We did not interrupt each other
 - We were both assertive with our ideas / explained concepts to each other
 - We switched navigator / driver frequently
-- ! Can improve on taking breaks more frequently 
+- ! Can improve on taking breaks more frequently
 
 #### 3. Debugging
 - Followed the stack trace
