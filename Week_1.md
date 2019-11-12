@@ -24,8 +24,8 @@ Bugs:
 - Program not terminating; infinite loop / code hangs
 - Unexpected results
 
-Tighten the loop = find the right line
-Get visibility = use ‘p’ to get visibility on each line
+Tighten the loop = find the right line  
+Get visibility = use ‘p’ to get visibility on each line  
 Follow the stack trace
 
 ### Reflection with pair partner (Boris Bike):  
