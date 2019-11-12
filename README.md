@@ -13,7 +13,7 @@
   - I write code that is easy to change
   - I can justify the way I work in a business context
   - I can grow collaboratively  
-  
+
 - I am equipped for long term growth
   - I manage my own well-being
   - I can learn anything by myself
