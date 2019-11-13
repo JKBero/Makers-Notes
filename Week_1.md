@@ -92,6 +92,7 @@ __Improve:__
 
 #### 3. Debugging
 - Following the stack trace and able to explain it outloud
+- Used 'p' to get visibility
 - Identified the issues methodically and remained calm
 - Researched our own tools to address syntax and language issues
 
