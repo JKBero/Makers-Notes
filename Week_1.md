@@ -52,9 +52,14 @@ experimentation. We did not interrupt each other
 - feature tests
 - user stories -> Domain Model
 - rspec syntax
+- README function / syntax
 
 ## Day 2
 
+GOALS
+- do some practicals
+- review extra resources from yesterday on gaps in knowledge
+- explain concepts outloud to someone
 
 ## Day 3
 
