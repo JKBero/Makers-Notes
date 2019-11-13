@@ -57,7 +57,7 @@ experimentation. We did not interrupt each other
 
 ### Goal Setting
 - do some practicals
-- review extra resources from yesterday's pairing project yesterday
+- review extra resources from yesterday's pairing project
 - explain concepts outloud to someone  
 
 | Knowledge gap | Progress in understanding / method used |
