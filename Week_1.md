@@ -67,6 +67,8 @@ experimentation. We did not interrupt each other
 | rspec syntax | - [Boris Bikes Step 8 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/8_back_to_the_unit.md)|
 | debugging -> using the stack trace | - [Boris Bikes Step 4 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/4_errors_are_good.md) |
 
+### Gaps in knowledge to revisit:
+- [BDD cycle](https://github.com/makersacademy/course/blob/master/pills/bdd_cycle.md)
 
 ## Day 3
 
