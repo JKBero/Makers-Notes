@@ -60,8 +60,8 @@ experimentation. We did not interrupt each other
 - review extra resources from yesterday's pairing project
 - explain concepts outloud to someone  
 
-| Knowledge gap | Progress in understanding / method used |
-| --- | --- |
+| Knowledge gap | Resources read | Practicals/projects | Explain it outloud |
+| --- | --- | --- | --- |
 | feature tests vs user test | - [Boris Bikes Step 3 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/3_from_domain_models_to_feature_tests.md)|
 | user stories -> Domain Model | - [Boris Bikes Step 2 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/2_working_with_user_stories.md) |
 | rspec syntax | - [Boris Bikes Step 8 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/8_back_to_the_unit.md)|
