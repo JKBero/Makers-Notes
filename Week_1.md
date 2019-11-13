@@ -2,13 +2,13 @@
 
 [Day 1](#day-1)  |  [Day 2](#day-2)  |  [Day 3](#day-3)  |  [Day 4](#day-4)  |  [Weekend Challenge](#weekend-challenge)
 
-1. Test-drive a simple program using objects and methods
+**1. Test-drive a simple program using objects and methods**
 
-2. Pair using the driver-navigator style
+**2. Pair using the driver-navigator style**
 
-3. Follow an effective debugging practice
+**3. Follow an effective debugging practice**
 
-4. Describe some basic OO principles like encapsulation, SRP
+**4. Describe some basic OO principles like encapsulation, SRP**
 
 ## Day 1
 
@@ -56,10 +56,10 @@ experimentation. We did not interrupt each other
 
 ## Day 2
 
-GOALS
+### Goal Setting
 - do some practicals
-- review extra resources from yesterday on gaps in knowledge
-- explain concepts outloud to someone
+- review extra resources from yesterday's pairing project yesterday
+- explain concepts outloud to someone  
 
 ## Day 3
 
