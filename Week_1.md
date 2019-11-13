@@ -62,9 +62,10 @@ experimentation. We did not interrupt each other
 
 | Knowledge gap | Progress in understanding / method used |
 | --- | --- |
-| feature tests vs user test |  |
-| user stories -> Domain Model |  |
-| rspec syntax |  |
+| feature tests vs user test | - [Boris Bikes Step 3 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/3_from_domain_models_to_feature_tests.md)|
+| user stories -> Domain Model | - [Boris Bikes Step 2 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/2_working_with_user_stories.md) |
+| rspec syntax | - [Boris Bikes Step 8 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/8_back_to_the_unit.md)|
+| debugging -> using the stack trace | - [Boris Bikes Step 4 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/4_errors_are_good.md) |
 
 
 ## Day 3
