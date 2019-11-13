@@ -52,7 +52,6 @@ experimentation. We did not interrupt each other
 - feature tests
 - user stories -> Domain Model
 - rspec syntax
-- README function / syntax
 
 ## Day 2
 
@@ -60,6 +59,13 @@ experimentation. We did not interrupt each other
 - do some practicals
 - review extra resources from yesterday's pairing project yesterday
 - explain concepts outloud to someone  
+
+| Knowledge gap | Progress in understanding / method used |
+| --- | --- |
+| feature tests vs user test |  |
+| user stories -> Domain Model |  |
+| rspec syntax |  |
+
 
 ## Day 3
 
