@@ -1,6 +1,8 @@
 # Week 1
 
-[Day 1](#day-1)  |  [Day 2](#day-2)  |  [Day 3](#day-3)  |  [Day 4](#day-4)  |  [Weekend Challenge](#weekend-challenge)
+[Day 1](#day-1)  |  [Day 2](#day-2)  |  [Day 3](#day-3)  |  [Day 4](#day-4)  |  [Weekend Challenge](#weekend-challenge)   
+
+[Debugging workshop](#debugging_workshop)  |  [Encapsulation](#encapsulation)  |  [TDD workshop](#tdd_workshop)   
 
 **1. Test-drive a simple program using objects and methods**
 
@@ -101,6 +103,7 @@ __Improve:__
 #### 4. OO Concepts
 - Pair partner explained encapsulation to me and utilised it in our code.
 
+##### Encapsulation
 > [GeeksforGeeks description:](https://www.geeksforgeeks.org/ruby-encapsulation/)
 >
 > Encapsulation is defined as the wrapping up of data under a single unit. It is the mechanism that binds together code and the data it manipulates. In a different way, encapsulation is a protective shield that prevents the data from being accessed by the code outside this shield.
