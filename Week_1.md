@@ -1,8 +1,8 @@
 # Week 1
 
-[Day 1](#day-1)  |  [Day 2](#day-2)  |  [Day 3](#day-3)  |  [Day 4](#day-4)  |  [Weekend Challenge](#weekend-challenge)   
+[Day 1](#day-1) | [Day 2](#day-2) | [Day 3](#day-3) | [Day 4](#day-4) | [Weekend Challenge](#weekend-challenge)   
 
-[Debugging workshop](#debugging_workshop)  |  [Encapsulation](#encapsulation)  |  [TDD workshop](#tdd_workshop)   
+[Debugging workshop](#debugging-workshop) | [Encapsulation](#encapsulation) | [TDD workshop](#tdd-workshop) | ["Magic Numbers"](#magic-numbers) | [Single Responsibility Principle](#single-responsibility-principle)
 
 **1. Test-drive a simple program using objects and methods**
 
@@ -14,7 +14,7 @@
 
 ## Day 1
 
-### Debugging workshop  
+### Debugging workshop
 
 Use: error message
 1. Understand the problem (don’t take stabs in the dark)
@@ -128,7 +128,7 @@ __Improve:__
 - pairing: share with partner at the start of your session, what you want to improve, and ask for feedback at the end/after 45 min session slots
 - research SRP
 
-### TDD workshop  
+### TDD workshop
 - Process of writing tests to guide the writing of code to meet user needs
 - Why use it?
 1. Helps break down the problem
@@ -251,6 +251,46 @@ end
   end
   ```
   - and so on....
+  
+### Reflection on pairing (Boris Bike):  
+
+#### 1. TDD
+- Deeper understanding of TDD & feature vs unit testing
+- Smoother and quicker writing in Rspec
+- Improved at naming commits and tests
+
+#### 2. Pairing
+- A very calm and smooth session; driver-navigator roles respected
+- Focused and achieved a good number of steps
+- Discussion flowed easily; we understood each other's logic
+- Briefed on what we wanted to get out of the session at the beginning, and held each other accountable
+- Implemented debriefing at 45 min slots to reflect on the session so far
+- Made regular commits at every red-green-refactor
+- Ended the session at a healthy time; did not feel fatigued by the end
+
+__Improve:__
+- ! Perhaps more breaks, but this was improved compared to previous days
+
+#### 3. Debugging
+- Process of debugging was getting quicker
+- Able to follow stack trace, line numbers and explain errors outloud
+
+#### 4. OO Concepts
+- The project covered "magic numbers" and SRP
+
+#### "Magic Numbers"
+
+> [Eliot Sykes' definition:](https://www.eliotsykes.com/magic-numbers)
+>
+> Magic numbers are hardcoded, unexplained values in code.
+> To remove a magic number, introduce a Ruby constant. Constants have values that do not change (unlike variables which do change). Constants have SCREAMING_SNAKE_CASE names.
+> Magic numbers cover any unexplained values, including strings, arrays, dates, regular expressions, and so on.
+
+#### Single Responsibility Principle
+
+> [Medium definition:](https://medium.com/@severinperez/writing-flexible-code-with-the-single-responsibility-principle-b71c4f3f883f)  
+>
+> SRP states that every class or module in a program should have responsibility for just a single piece of that program's functionality. Further, the elements of that responsibility should be encapsulated by the responsible class rather than spread out in unrelated classes.  
 
 ## Day 4
 
