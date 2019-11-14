@@ -89,6 +89,8 @@ __Improve:__
 - ! Breaks more frequently
 - ! Go home earlier; we were sucked into the above problem at the end and were eager to solve it, but past the point of being productive and were needing rest instead
 - ! When I was driving, my pair had an excellent way of asking me helpful questions to steer me towards a solution, and not just telling me the solution. I would like to adopt this more in my approach as navigator with future partners.
+- ! Debrief at every 45 min slot (set a timer)
+- ! Brief at the start on what you're trying to improve, so they can keep you accountable
 
 #### 3. Debugging
 - Following the stack trace and able to explain it outloud
@@ -117,9 +119,14 @@ __Improve:__
 ## Day 3
 
 ### Goal Setting
-- complete 2 practicals
+- complete 2 practicals working on TDD & debugging
 - read BDD cycle resource
 - explain concept of encapsulation outloud to someone
+- pairing: share with partner at the start of your session, what you want to improve, and ask for feedback at the end/after 45 min session slots
+- research SRP
+
+### TDD workshop  
+
 
 ## Day 4
 
