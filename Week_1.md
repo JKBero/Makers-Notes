@@ -137,8 +137,8 @@ Term note: "production code" is the term used for code (often unfinished) you ar
 __Designing a piggy bank:__
 - Define user needs
   - store money
-  - discourage people from taking it out
   - destroy + taking all the money out
+  - discourage people from taking it out
 - Write user stories
 - Choose one user story:
   - As a user  
@@ -152,10 +152,14 @@ __Designing a piggy bank:__
   | money | |
   | piggy bank | store() |
   
-- Write a feature test:
-  - > piggy_bank = PiggyBank.new   # =>NameError (unitialized constant PiggyBank)
-  - > piggy_bank.store(1)   #maybe store needs to return a clink sound to confirm that the coin landed
-  - => 'clink'
+- Write a feature test:  
+
+  ```
+  piggy_bank = PiggyBank.new   # =>NameError (unitialized constant PiggyBank)
+  piggy_bank.store(1)   #maybe store needs to return a clink sound to confirm that the coin landed
+  => 'clink'
+  ```  
+  
   - What is the behaviour of store method?
   
   |  Input | Output |
@@ -228,8 +232,22 @@ end
   - Unit test
   
   ```
+  describe "#destroy" do
+    it "should return 1 when I had stored 1 pound in it"
+      piggy_bank = PiggyBank.new   #arrange
+      piggy_bank.store(1)
+      expect(piggy_bank.destroy).to eq 1   #assert( act ) ...
+    end
+  end
+  ```
+  
+  - Pass test   
   
   ```
+  def destroy
+  end
+  ```
+  - and so on....
 
 ## Day 4
 
