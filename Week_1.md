@@ -147,6 +147,10 @@ __Improve:__
 
 ## Day 4
 
+### Goal Setting
+- work on Birthdays practicals working on TDD & debugging
+- read BDD cycle resource
+- explain concept of encapsulation outloud to someone
 
 ## Weekend Challenge  
 
