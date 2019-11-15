@@ -1,6 +1,6 @@
 # Week 1
 
-[Day 1](#day-1) | [Day 2](#day-2) | [Day 3](#day-3) | [Day 4](#day-4) | [Weekend Challenge](#weekend-challenge)   
+[Day 1](#day-1) | [Day 2](#day-2) | [Day 3](#day-3) | [Day 4](#day-4) | [Weekend Challenge](#weekend-challenge) | [Gaps in Knowledge](#gaps-in-knowledge) 
 
 [Debugging workshop](#debugging-workshop) | [TDD workshop](#tdd-workshop) | [Encapsulation](#encapsulation) | ["Magic Numbers"](#magic-numbers) | [Single Responsibility Principle](#single-responsibility-principle)  
 
@@ -46,13 +46,6 @@ __Improve:__
 - do some practicals
 - review extra resources from yesterday's pairing project
 - explain concepts outloud to someone  
-
-| Knowledge gap | Resources read | Practicals/projects | Explain it outloud |
-| --- | --- | --- | --- |
-| feature tests vs user test | - [Boris Bikes Step 3 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/3_from_domain_models_to_feature_tests.md)|  | Explained to Ellie |
-| user stories -> Domain Model | - [Boris Bikes Step 2 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/2_working_with_user_stories.md) |  | Explained to Ellie |
-| rspec syntax | - [Boris Bikes Step 8 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/8_back_to_the_unit.md)|  |  |
-| debugging -> using the stack trace | - [Boris Bikes Step 4 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/4_errors_are_good.md) |  |  |
 
 ### Reflection with pair partner (Boris Bike):  
 
@@ -297,3 +290,13 @@ end
   end
   ```
   - and so on....
+  
+  ## Gaps in Knowledge
+  
+| Knowledge gap | Resources read | Practicals/projects | Explain it outloud |
+| --- | --- | --- | --- |
+| feature tests vs user test | - [Boris Bikes Step 3 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/3_from_domain_models_to_feature_tests.md)|  | Explained to Ellie |
+| user stories -> Domain Model | - [Boris Bikes Step 2 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/2_working_with_user_stories.md) |  | Explained to Ellie |
+| rspec syntax | - [Boris Bikes Step 8 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/8_back_to_the_unit.md)|  |  |
+| debugging -> using the stack trace | - [Boris Bikes Step 4 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/4_errors_are_good.md) |  |  |
+
