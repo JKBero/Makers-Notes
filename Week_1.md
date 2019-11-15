@@ -293,10 +293,12 @@ end
   
   ## Gaps in Knowledge
   
-| Knowledge gap | Resources read | Practicals/projects | Explain it outloud |
+| Knowledge gap | Resources read | Practicals/projects | Other |
 | --- | --- | --- | --- |
-| feature tests vs user test | - [Boris Bikes Step 3 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/3_from_domain_models_to_feature_tests.md)|  | Explained to Ellie |
-| user stories -> Domain Model | - [Boris Bikes Step 2 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/2_working_with_user_stories.md) |  | Explained to Ellie |
-| rspec syntax | - [Boris Bikes Step 8 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/8_back_to_the_unit.md)|  |  |
-| debugging -> using the stack trace | - [Boris Bikes Step 4 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/4_errors_are_good.md) |  |  |
+| feature tests vs user test | [Boris Bikes Step 3 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/3_from_domain_models_to_feature_tests.md)| Boris Bikes | Explained to Ellie + TDD workshop |
+| user stories -> Domain Model | [Boris Bikes Step 2 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/2_working_with_user_stories.md) | Boris Bikes | Explained to Ellie |
+| rspec syntax | [Boris Bikes Step 8 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/8_back_to_the_unit.md)| Boris Bikes |  |
+| rspec raise_error & ruby fail/raise methods | | Boris Bikes | |
+| debugging -> using the stack trace | [Boris Bikes Step 4 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/4_errors_are_good.md) | Boris Bikes | Debugging workshop |
+| [BDD cycle](https://github.com/makersacademy/course/blob/master/pills/bdd_cycle.md) | | | |
 
