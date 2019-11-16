@@ -190,7 +190,6 @@ Change the code to include the ':success' message:
 
 ```
   def add_birthday(name, birthday)
-    return :failed_to_save_birthday unless name && birthday
     @list << {name: name, birthday: birthday}
     :success
   end
