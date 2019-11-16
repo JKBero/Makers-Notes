@@ -12,6 +12,8 @@
 
 **4. Describe some basic OO principles like encapsulation, SRP**
 
+---------
+
 ## Day 1
 
 ### Reflection with pair partner (Boris Bike):  
@@ -38,7 +40,9 @@ __Improve:__
 ### Gaps in knowledge to revisit:
 - feature tests
 - user stories -> Domain Model
-- rspec syntax
+- rspec syntax  
+
+----------
 
 ## Day 2
 
@@ -96,6 +100,8 @@ __Improve:__
 - [BDD cycle](https://github.com/makersacademy/course/blob/master/pills/bdd_cycle.md)
 - Rspec error raising methods & Ruby fail/raise methods  
 
+----------
+
 ## Day 3
 
 ### Goal Setting
@@ -145,6 +151,8 @@ __Improve:__
 >
 > SRP states that every class or module in a program should have responsibility for just a single piece of that program's functionality. Further, the elements of that responsibility should be encapsulated by the responsible class rather than spread out in unrelated classes.  
 
+-----------
+
 ## Day 4
 
 ### Goal Setting
@@ -152,8 +160,53 @@ __Improve:__
 - read BDD cycle resource
 - explain concept of encapsulation outloud to someone
 
+#### 1. TDD
+
+In our weekly cohort retrospective we queried **testing behaviours vs state**, and I have an improved understanding: Testing the actual end results, rather than testing the implementation within the program / the tools you've used. That way, if you or another developer make changes to the implementation, the tests will still pass because they are based on the results you were specifying.
+
+A coach helped me implement this in my Birthdays project, by **mapping out what input & output you expect to see:**
+
+Tests that it successfully stores something, with the output/result being itself. In the 'expect' line, it includes the implementation of arrays and hashes (i.e. partially tests state):
+
+```
+describe "#add_birthday" do
+    it "stores one name and birthday" do
+      new_list = BirthdayList.new
+      expect(new_list.add_birthday("Sam", "19/06/1991")).to eq [{name: "Sam", birthday: "19/06/1991"}]
+    end
+end
+```
+
+The coach's test is more specific and returns a message in the form of a symbol ':success'. Now, if the implementation changes, the test still passes because it only tests behaviour:
+
+```
+    it "returns :success if given 'Sam' and '19/06/1991'" do
+      new_list = BirthdayList.new
+      expect(new_list.add_birthday("Sam", "19/06/1991")).to eq :success
+    end
+```
+
+Change the code to include the ':success' message:
+
+```
+  def add_birthday(name, birthday)
+    return :failed_to_save_birthday unless name && birthday
+    @list << {name: name, birthday: birthday}
+    :success
+  end
+```  
+
+#### Other
+
+Getting started was the hardest part: While tackling the Birthdays project, I spent an half hour trying to understand where to start with the building process. That was the most time-consuming. I ran a **feature test** to help me understand, and **almost immediately this highlighted the beginning structure of the program.** From there onwards, it was a smooth process of practicing TDD; adding features and modifying the implementation each step of the way, with the tests guiding the simplest structure possible.
+
+-----------
+
 ## Weekend Challenge  
 
+
+----------  
+----------  
 
 ## Debugging workshop
 
@@ -170,6 +223,8 @@ Bugs:
 Tighten the loop = find the right line  
 Get visibility = use ‘p’ to get visibility on each line  
 Follow the stack trace  
+
+--------------
 
 ## TDD workshop
 - Process of writing tests to guide the writing of code to meet user needs
@@ -295,14 +350,17 @@ end
   ```
   - and so on....
   
+  ------------------  
+  ------------------  
+  
   ## Gaps in Knowledge
   
 | Knowledge gap | Resources read | Practicals/projects | Other |
 | --- | --- | --- | --- |
-| feature tests vs user test | [Boris Bikes Step 3 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/3_from_domain_models_to_feature_tests.md)| Boris Bikes | Explained to Ellie + TDD workshop |
+| feature tests vs user test | [Boris Bikes Step 3 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/3_from_domain_models_to_feature_tests.md)| Boris Bikes, Birthdays | Explained to Ellie + TDD workshop |
 | user stories -> Domain Model | [Boris Bikes Step 2 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/2_working_with_user_stories.md) | Boris Bikes | Explained to Ellie |
-| rspec syntax | [Boris Bikes Step 8 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/8_back_to_the_unit.md)| Boris Bikes |  |
+| rspec syntax | [Boris Bikes Step 8 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/8_back_to_the_unit.md)| Boris Bikes, Birthdays | Help from coach, retrospective |
 | rspec raise_error & ruby fail/raise methods | | Boris Bikes | |
-| debugging -> using the stack trace | [Boris Bikes Step 4 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/4_errors_are_good.md) | Boris Bikes | Debugging workshop |
+| debugging -> using the stack trace | [Boris Bikes Step 4 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/4_errors_are_good.md) | Boris Bikes, Birthdays | Debugging workshop |
 | [BDD cycle](https://github.com/makersacademy/course/blob/master/pills/bdd_cycle.md) | | | |
 
