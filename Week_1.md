@@ -367,4 +367,5 @@ end
 | debugging -> using the stack trace | [Boris Bikes Step 4 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/4_errors_are_good.md) | Boris Bikes, Birthdays | Debugging workshop |
 | [BDD cycle](https://github.com/makersacademy/course/blob/master/pills/bdd_cycle.md) | | | |
 | more familiarity with README structures | | Airport Challenge | |
+| difference between attr_reader & def initialize | | | |
 
