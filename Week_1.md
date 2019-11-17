@@ -204,9 +204,9 @@ Getting started was the hardest part: While tackling the Birthdays project, I sp
 ## Weekend Challenge  
 
 ### Goal Setting
-- write a thorough README in the Airport Challenge
-- get as far as possible in the Airport Challenge
-- stick to TDD principles
+- write a thorough README in the Airport Challenge - COMPLETED
+- get as far as possible in the Airport Challenge - COMPLETED
+- stick to TDD principles - COMPLETED
 
 ----------  
 ----------  
