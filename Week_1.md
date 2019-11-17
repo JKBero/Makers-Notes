@@ -360,12 +360,13 @@ end
   
 | Knowledge gap | Resources read | Practicals/projects | Other |
 | --- | --- | --- | --- |
-| feature tests vs user test | [Boris Bikes Step 3 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/3_from_domain_models_to_feature_tests.md)| Boris Bikes, Birthdays | Explained to Ellie + TDD workshop |
-| user stories -> Domain Model | [Boris Bikes Step 2 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/2_working_with_user_stories.md) | Boris Bikes | Explained to Ellie |
-| rspec syntax | [Boris Bikes Step 8 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/8_back_to_the_unit.md)| Boris Bikes, Birthdays | Help from coach, retrospective |
-| rspec raise_error & ruby fail/raise methods | | Boris Bikes | |
-| debugging -> using the stack trace | [Boris Bikes Step 4 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/4_errors_are_good.md) | Boris Bikes, Birthdays | Debugging workshop |
+| feature tests vs user test | [Boris Bikes Step 3 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/3_from_domain_models_to_feature_tests.md)| Boris Bikes, Birthdays, Airport Challenge | Explained to Ellie + TDD workshop |
+| user stories -> Domain Model | [Boris Bikes Step 2 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/2_working_with_user_stories.md) | Boris Bikes, Airport Challenge | Explained to Ellie |
+| rspec syntax | [Boris Bikes Step 8 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/8_back_to_the_unit.md)| Boris Bikes, Birthdays, Airport Challenge | Help from coach, retrospective |
+| rspec raise_error & ruby fail/raise methods | | Boris Bikes, Airport Challenge | |
+| debugging -> using the stack trace | [Boris Bikes Step 4 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/4_errors_are_good.md) | Boris Bikes, Birthdays, Airport Challenge | Debugging workshop |
 | [BDD cycle](https://github.com/makersacademy/course/blob/master/pills/bdd_cycle.md) | | | |
 | more familiarity with README structures | | Airport Challenge | |
-| difference between attr_reader & def initialize | | | |
+| difference between attr_reader & def initialize | | Airport Challenge | |
+| how does test coverage work in simplecov? | | Airport Challenge | |
 
