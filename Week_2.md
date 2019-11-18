@@ -88,17 +88,7 @@
 ----------  
 ----------  
 
-## Code Review workshop
-
-- improve code - readability + refactor
-- learn
-- spot patterns
-- help to solve problem
-
-Peer code review?
-- communication skills
-- part of pair programming
-- learning from each other
+## workshop
 
 --------------
 
