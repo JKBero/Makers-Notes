@@ -1,6 +1,6 @@
 # Week 2
 
-[Day 1](#day-1) | [Day 2](#day-2) | [Day 3](#day-3) | [Day 4](#day-4) | [Weekend Challenge](#weekend-challenge) | [Gaps in Knowledge](#gaps-in-knowledge) 
+[Day 1](#day-1) | [Day 2](#day-2) | [Day 3](#day-3) | [Day 4](#day-4) | [Day 5](#day-5) | [Weekend Challenge](#weekend-challenge) | [Gaps in Knowledge](#gaps-in-knowledge) 
 
 [Debugging workshop](#debugging-workshop) | [TDD workshop](#tdd-workshop) | [Encapsulation](#encapsulation) | ["Magic Numbers"](#magic-numbers) | [Single Responsibility Principle](#single-responsibility-principle)  
 
@@ -88,8 +88,17 @@
 ----------  
 ----------  
 
-## workshop
+## Code Review workshop
 
+- improve code - readability + refactor
+- learn
+- spot patterns
+- help to solve problem
+
+Peer code review?
+- communication skills
+- part of pair programming
+- learning from each other
 
 --------------
 
