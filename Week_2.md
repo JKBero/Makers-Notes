@@ -92,8 +92,8 @@
 
 = Info about something / someone / behaviours, **which is used as a basis for improvement**
 
-**Why is it difficult?**
-Love & Acceptance VS Learning & Growth
+#### Why is it difficult?
+**Love & Acceptance VS Learning & Growth**
 
 - Questioning motivation
 - Not all are trained / learnt the skill
@@ -111,9 +111,7 @@ Growth
 ?
 ?
 
-Feedback is everywhere - about building resilience
-
-How can we make it easier?
+#### How can we make it easier?
 1. Shift your perspective
 - Do not view it as positive or negative... NEUTRAL (something to help YOU grow)
 - See it as something kind
@@ -131,13 +129,52 @@ How can we make it easier?
 4. Wrong-spotting - our default mindset is looking for what is wrong first
 5. We all have blind spots
 
-Building resilience
+#### Building resilience
 - What is your happiness set point? http://www.happiness-survey.com/
 - Meditation increases your baseline happiness
 - Swing: How wide do you swing?
 - Recovery / Sustain: How long does it take for you to return to your baseline happiness? (minutes / hours / days...)
 
-- Read someone's state
+#### Understand feedback
+- Appreciation - to acknowledge, connect, motivate, reassure, thank
+- Evaluation - to rate or rank against a set of standards, aling expectation, inform decision-making
+- Coaching - to help receiver expand knowlede, sharpen skill, improve capability
+
+#### Use a framework
+A - actionable (avoid adjectives like "good"/"bad")
+S - specific (avoid stories; use hard facts)
+K - kind (being direct can also be kind)
+
+Communication stances - check your energy first.
+- Doormat - openly agreeable, people-pleasing behaviour
+- Sword - steamrolling, dominating, aggressive - doesn't create safe space for others
+- Lantern - ask questions, drop assumptions
+
+NVC (Non-Violent Communication)  
+
+| Expression |
+| ---- |
+| Observation: When I see/hear.... |
+| Feeling: I feel... |
+| Need: Because I need... |
+| Request: Would you be willing...? |
+
+- know your feelings
+- know your needs
+
+- ask permission to give feedback, respect boundaries
+- state the purpose of you FB
+- give specific feedback
+- be direct and respectful
+- read someone's state
+
+- Weigh it carefully; you can reject it if it's right to do so
+- Strive for learning in the feedback
+
+**Ultimately, it's all to help you grow and improve**
+
+- Weigh it carefully; you can reject it if it's right to do so
+- Strive for learning in the feedback
 
 --------------
 
