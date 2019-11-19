@@ -125,13 +125,17 @@ How can we make it easier?
 - Improve work life and overall quality of life
 3. Know thyself
 - 3 feedback triggers:  
- 1. Truth trigger - seems wrong or off target
- 2. Relationship triggers - something about our relationship with the person
- 3. Identity triggers - undermines how we see ourselves ("Google bias")
-- Wrong-spotting - our default mindset is looking for what is wrong first
-- We all have blind spots
-4.
-5.
+  1. Truth trigger - seems wrong or off target
+  2. Relationship triggers - something about our relationship with the person
+  3. Identity triggers - undermines how we see ourselves ("Google bias")
+4. Wrong-spotting - our default mindset is looking for what is wrong first
+5. We all have blind spots
+
+Building resilience
+- What is your happiness set point? http://www.happiness-survey.com/
+- Meditation increases your baseline happiness
+- Swing: How wide do you swing?
+- Recovery / Sustain: How long does it take for you to return to your baseline happiness? (minutes / hours / days...)
 
 - Read someone's state
 
