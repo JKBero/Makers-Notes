@@ -88,7 +88,52 @@
 ----------  
 ----------  
 
-## Feedback workshop
+## Feedback workshop  
+
+= Info about something / someone / behaviours, **which is used as a basis for improvement**
+
+**Why is it difficult?**
+Love & Acceptance VS Learning & Growth
+
+- Questioning motivation
+- Not all are trained / learnt the skill
+- Not wanting to hurt someone (empathy or perhaps backlash)
+- Fear of not being accepted
+- Hard to receive, as perhaps very self-critical / feel threatening
+- Hard to receive, as perhaps you have ego / pride
+- Fear based behaviours
+
+6 core needs:
+Love
+Acceptance
+Learning
+Growth
+?
+?
+
+Feedback is everywhere - about building resilience
+
+How can we make it easier?
+1. Shift your perspective
+- Do not view it as positive or negative... NEUTRAL (something to help YOU grow)
+- See it as something kind
+2. Emprowered receiver
+- Ask for it; be eager and specific; pairing culture / team culture
+- Gatekeeper
+- As a receiver FB helps us understand ourselves, profile, blind-spots #freetherapy
+- helps us practice assertiveness, boundaries, cultivate authentic and equal relationships
+- Improve work life and overall quality of life
+3. Know thyself
+- 3 feedback triggers:  
+ 1. Truth trigger - seems wrong or off target
+ 2. Relationship triggers - something about our relationship with the person
+ 3. Identity triggers - undermines how we see ourselves ("Google bias")
+- Wrong-spotting - our default mindset is looking for what is wrong first
+- We all have blind spots
+4.
+5.
+
+- Read someone's state
 
 --------------
 
