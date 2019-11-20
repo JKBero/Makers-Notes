@@ -2,7 +2,7 @@
 
 [Day 1](#day-1) | [Day 2](#day-2) | [Day 3](#day-3) | [Day 4](#day-4) | [Day 5](#day-5) | [Weekend Challenge](#weekend-challenge) | [Gaps in Knowledge](#gaps-in-knowledge) 
 
-[Feedback workshop](#feedback-workshop) |  
+[Feedback workshop](#feedback-workshop) |  [Domain Modelling workshop](#domain-modelling-workshop)
 
 **1. Use all of week 1's skills (don't underestimate the importance of this)**  
 
@@ -19,44 +19,47 @@
 ## Day 1
 
 ### Goal setting
+- attend peer code review workshop
+- look over gaps in knowledge
 
-### Reflection with pair partner:  
+### Reflections
 
 #### 1. Week 1 skills
-
-
-#### 2. Break up classes
-
+- Continued practise of TDD, SRP, DRY etc, through Airport & Oystercard. Noticed that testing & coding Oystercard is so much faster now.
 
 #### 3. Mocking
-
-
-#### 4. OO principles
-
+- Tackled with this in Airport challenge, and came to a good understanding of isolation tests, using doubles/stubs.
+- Was able to explain these concepts to others - Kealan, Ellie, Danny
 
 #### 5. Review others' code
-
-
-### Gaps in knowledge to revisit:
- 
+- Kealan & Ellie reviewed my Airport code: good suggestions given / questions asked. Kealan pointed out I could refactor ```@in_journey == true``` to just ```@in_journey``` as it will still return true - great reminder.
+- Ellie helped with a clearer understanding of ```attr_reader``` & ```def initialize``` 
 
 ----------
 
 ## Day 2
 
 ### Goal Setting
+- attend Feedback workshop
+- research gaps in knowledge from Oystercard
 
+### Reflections
 
-### Gaps in knowledge to revisit:
+#### Feedback
+- Danny and I practised giving feedback after our pairing session:
+ - Strong communication; sharing ideas and explaining our logic to each other
+ - Danny shared I have strong teaching skills; able to explain concepts well and bring them across to others
+ - Patient and friendly approach; very smooth with good rapport & trust between us
+ - Made a lot of progress; strong focus and team work
+ - Not relevant to this session or our relationship, but could imagine that when working with other personalities, we could both be more quiet when navigating and allowing the driver to figure out the writing/syntax as they go, although the sharing of ideas was strong.
 
 ----------
 
 ## Day 3
 
 ### Goal Setting
-
-
-### Gaps in knowledge to revisit:
+- attend Domain Model workshop
+- research gaps in knowledge from Oystercard
 
 -----------
 
@@ -103,23 +106,15 @@
 - Hard to receive, as perhaps you have ego / pride
 - Fear based behaviours
 
-6 core needs:
-Love
-Acceptance
-Learning
-Growth
-?
-?
-
 #### How can we make it easier?
 1. Shift your perspective
 - Do not view it as positive or negative... NEUTRAL (something to help YOU grow)
 - See it as something kind
-2. Emprowered receiver
+2. Empowered receiver
 - Ask for it; be eager and specific; pairing culture / team culture
 - Gatekeeper
 - As a receiver FB helps us understand ourselves, profile, blind-spots #freetherapy
-- helps us practice assertiveness, boundaries, cultivate authentic and equal relationships
+- Helps us practice assertiveness, boundaries, cultivate authentic and equal relationships
 - Improve work life and overall quality of life
 3. Know thyself
 - 3 feedback triggers:  
@@ -148,7 +143,7 @@ K - kind (being direct can also be kind)
 Communication stances - check your energy first.
 - Doormat - openly agreeable, people-pleasing behaviour
 - Sword - steamrolling, dominating, aggressive - doesn't create safe space for others
-- Lantern - ask questions, drop assumptions
+- Lantern - ask questions, drop all assumptions
 
 NVC (Non-Violent Communication)  
 
@@ -160,25 +155,22 @@ NVC (Non-Violent Communication)
 | Request: Would you be willing...? |
 
 - know your feelings
-- know your needs
+- know your needs  
 
 - ask permission to give feedback, respect boundaries
 - state the purpose of you FB
 - give specific feedback
 - be direct and respectful
-- read someone's state
+- read someone's state. 
 
 - Weigh it carefully; you can reject it if it's right to do so
 - Strive for learning in the feedback
 
-**Ultimately, it's all to help you grow and improve**
-
-- Weigh it carefully; you can reject it if it's right to do so
-- Strive for learning in the feedback
+**Ultimately, it's all to help you grow and improve**. 
 
 --------------
 
-## workshop
+## Domain Modelling workshop  
 
   
 ------------------  
