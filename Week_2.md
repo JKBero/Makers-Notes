@@ -188,11 +188,11 @@ NVC (Non-Violent Communication)
   
 | Knowledge gap | Resources read | Practicals/projects | Other |
 | --- | --- | --- | --- |
-| Installing and upgrading gems using Bundler | | | |
-| Explain the structure of a Gemfile | | | |
+| Installing and upgrading gems using Bundler | | Oystercard | Talked through with Ellie |
+| Explain the structure of a Gemfile | | Oystercard | Talked through with Ellie |
 | What do default options in RSpec configuration file mean? | | | |
-| What's a class constructor? What is the initialize method? How are they different? | | | |
-| When do you have to use a return statement in Ruby and when can you omit it? | | | |
-| What are instance variables and how are they different from local variables? | | | |
-| What are exceptions in Ruby? Why do they have messages associated with them? | | | |
-| How can you check an expression raises an error with RSpec? Why do you have to pass the code as a block to do this? | | | |
+| What's a class constructor? What is the initialize method? How are they different? | | Boris Bike, Airport, Oystercard | Talked through with Ellie |
+| When do you have to use a return statement in Ruby and when can you omit it? | | experimented in IRB | Talked through with Ellie |
+| What are instance variables and how are they different from local variables? | | | Talked through with Ellie |
+| What are exceptions in Ruby? Why do they have messages associated with them? | http://rubylearning.com/satishtalim/ruby_exceptions.html | Boris Bike, Airport, Oystercard | Alistair explained it |
+| How can you check an expression raises an error with RSpec? Why do you have to pass the code as a block to do this? | https://stackoverflow.com/questions/21567838/when-to-use-curly-braces-vs-parenthesis-in-expect-rspec-method | | Talked through with Ellie |
