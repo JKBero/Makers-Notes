@@ -1,25 +1,44 @@
 # Workshops
 
+["Magic Numbers"](#magic-numbers) | [Single Responsibility Principle](#single-responsibility-principle) | [Encapsulation](#encapsulation)
+
+[Debugging workshop](#debugging-workshop) | [TDD workshop](#tdd-workshop) 
+
 draw.io - if you want to draw diagrams online
 
 UML link for research (in domain moddeling doc)
 
-#### "Magic Numbers"
+### "Magic Numbers"
 
-> [Eliot Sykes' definition:](https://www.eliotsykes.com/magic-numbers)
->
+[Eliot Sykes' definition:](https://www.eliotsykes.com/magic-numbers)
+
 > Magic numbers are hardcoded, unexplained values in code.
 > To remove a magic number, introduce a Ruby constant. Constants have values that do not change (unlike variables which do change). Constants have SCREAMING_SNAKE_CASE names.
 > Magic numbers cover any unexplained values, including strings, arrays, dates, regular expressions, and so on.  
 
 -------------
 
-#### Single Responsibility Principle
+### Single Responsibility Principle
 
-> [Medium definition:](https://medium.com/@severinperez/writing-flexible-code-with-the-single-responsibility-principle-b71c4f3f883f)  
->
+[Medium definition:](https://medium.com/@severinperez/writing-flexible-code-with-the-single-responsibility-principle-b71c4f3f883f)  
+
 > SRP states that every class or module in a program should have responsibility for just a single piece of that program's functionality. Further, the elements of that responsibility should be encapsulated by the responsible class rather than spread out in unrelated classes.  
 
+-------------
+
+### Encapsulation
+[GeeksforGeeks description:](https://www.geeksforgeeks.org/ruby-encapsulation/)
+
+> Encapsulation is defined as the wrapping up of data under a single unit. It is the mechanism that binds together code and the data it manipulates. In a different way, encapsulation is a protective shield that prevents the data from being accessed by the code outside this shield.
+> - Technically in encapsulation, the variables or data of a class are hidden from any other class and can be accessed only through any member function of own class in which they are declared.
+> - Encapsulation can be achieved by declaring all the variables in the class as private and writing public methods in the class to set and get the values of variables.
+>
+> Advantages of Encapsulation:
+> - Data Hiding: The user will have no idea about the inner implementation of the class. It will not be visible to the user that how the class is storing values in the variables. He only knows that we are passing the values to a setter method and variables are getting initialized with that value.
+> - Reusability: Encapsulation also improves the re-usability and easy to change with new requirements.
+> - Testing code is easy: Encapsulated code is easy to test for unit testing.
+
+-------------
 -------------
 
 ## Debugging workshop
@@ -38,6 +57,7 @@ Tighten the loop = find the right line
 Get visibility = use ‘p’ to get visibility on each line  
 Follow the stack trace  
 
+--------------
 --------------
 
 ## TDD workshop
@@ -165,5 +185,6 @@ end
   - and so on....  
   
   -------------  
+  -------------
   
   
