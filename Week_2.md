@@ -61,14 +61,18 @@
 - attend Domain Model workshop
 - research gaps in knowledge from Oystercard
 
+### Reflections
+
+#### 2. Break one class into two classes
+- Use ```p``` more for visibility in tests
+- Building on domain modelling skills; helps with clarity for purpose of classes & methods
+
 -----------
 
 ## Day 4
 
 ### Goal Setting
-
-
-### Gaps in knowledge to revisit:
+- Research dependency inversion and implement in Oystercard
 
 
 -----------  
