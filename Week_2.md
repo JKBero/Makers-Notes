@@ -188,3 +188,5 @@ NVC (Non-Violent Communication)
 | What are instance variables and how are they different from local variables? | | | Talked through with Ellie |
 | What are exceptions in Ruby? Why do they have messages associated with them? | http://rubylearning.com/satishtalim/ruby_exceptions.html | Boris Bike, Airport, Oystercard | Alistair explained it |
 | How can you check an expression raises an error with RSpec? Why do you have to pass the code as a block to do this? | https://stackoverflow.com/questions/21567838/when-to-use-curly-braces-vs-parenthesis-in-expect-rspec-method  "As for rules, you pass a block or a Proc if you're trying to test behavior (e.g. raising errors, changing some value). Otherwise, you pass a "conventional" argument, in which case the value of that argument is what is tested." | | Talked through with Ellie |
+| UML (link in debugging workshop) | | | |
+| Dependency Inversion Principle | http://www.getlaura.com/dependency-inversion-principle-in-ruby/ | Oystercard | | 
