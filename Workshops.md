@@ -4,10 +4,6 @@
 
 [Debugging workshop](#debugging-workshop) | [TDD workshop](#tdd-workshop) 
 
-draw.io - if you want to draw diagrams online
-
-UML link for research (in domain moddeling doc)
-
 ### "Magic Numbers"
 
 [Eliot Sykes' definition:](https://www.eliotsykes.com/magic-numbers)
