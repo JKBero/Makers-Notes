@@ -180,10 +180,10 @@ Getting started was the hardest part: While tackling the Birthdays project, I sp
 - get as far as possible in the Airport Challenge - COMPLETED
 - stick to TDD principles - COMPLETED
   
-  ------------------  
-  ------------------  
+------------------  
+------------------  
   
-  ## Gaps in Knowledge
+## Gaps in Knowledge
   
 | Knowledge gap | Resources read | Practicals/projects | Other |
 | --- | --- | --- | --- |
