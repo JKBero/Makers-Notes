@@ -2,8 +2,6 @@
 
 [Day 1](#day-1) | [Day 2](#day-2) | [Day 3](#day-3) | [Day 4](#day-4) | [Day 5](#day-5) | [Weekend Challenge](#weekend-challenge) | [Gaps in Knowledge](#gaps-in-knowledge) 
 
-[Feedback workshop](#feedback-workshop) |  [Domain Modelling workshop](#domain-modelling-workshop)
-
 **1. Use all of week 1's skills (don't underestimate the importance of this)**  
 
 **2. Break one class into two classes that work together, while maintaining test coverage**  
