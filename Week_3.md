@@ -11,8 +11,11 @@
 ### Goal setting
 
 
-### Reflections
-
+### Code review
+- avoid hardcoding (hard to extend)
+- don't use the instance variables in testing - i.e. it's testing state
+  - just test the expected output
+- third party code -> put "client" in initialize so we can double in our tests
 
 ----------
 
