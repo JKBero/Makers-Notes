@@ -8,20 +8,24 @@
 
 ## Day 1
 
-### Goal setting
-
-
 ### Code review
 - avoid hardcoding (hard to extend)
 - don't use the instance variables in testing - i.e. it's testing state
   - just test the expected output
-- third party code -> put "client" in initialize so we can double in our tests
+- third party code -> in Messenger class, put "client" in initialize so we can use doubles in our tests
+
+### Pairing
+- Made good progress in intro to the web (HTTP, URL etc...)
+- thoroughly enjoying Sinatra
+- building on understanding of view and controller
 
 ----------
 
 ## Day 2
 
 ### Goal Setting
+- Process modelling workshop
+- 
 
 ### Reflections
 
