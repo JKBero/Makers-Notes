@@ -2,7 +2,7 @@
 
 ["Magic Numbers"](#magic-numbers) | [Single Responsibility Principle](#single-responsibility-principle) | [Encapsulation](#encapsulation)
 
-[Debugging workshop](#debugging-workshop) | [TDD workshop](#tdd-workshop) | [Feedback workshop](#feedback-workshop)
+[Debugging workshop](#debugging-workshop) | [TDD workshop](#tdd-workshop) | [Feedback workshop](#feedback-workshop) | [Process modelling workshop](#process-modelling-workshop)
 
 ### "Magic Numbers"
 
@@ -263,4 +263,11 @@ NVC (Non-Violent Communication)
 --------------
 --------------
 
+## Process modelling workshop
 
+Model = a visual representation
+- Oversight of how things work
+- Detailing relationships between systems & objects
+- Helps save time/mistakes
+- Good for team work
+- Establish clear responsibilities
