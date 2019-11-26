@@ -274,4 +274,7 @@ Model = a visual representation
 - Good for team work
 - Establish clear responsibilities
 
+![HTTP diagram](https://user-images.githubusercontent.com/49643736/69631193-8a760680-1045-11ea-8f6e-3b558b34a5a9.jpg)
 
+------------
+------------
