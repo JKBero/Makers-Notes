@@ -24,8 +24,7 @@
 ## Day 2
 
 ### Goal Setting
-- Process modelling workshop
-- 
+- Attend process modelling workshop; practised modelling HTTP process in teams (see [workshops](https://github.com/JKBero/Makers-Notes/blob/master/Workshops.md))
 
 ### Reflections
 
