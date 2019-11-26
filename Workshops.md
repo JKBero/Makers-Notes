@@ -271,3 +271,5 @@ Model = a visual representation
 - Helps save time/mistakes
 - Good for team work
 - Establish clear responsibilities
+
+
