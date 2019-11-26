@@ -274,6 +274,87 @@ Model = a visual representation
 - Good for team work
 - Establish clear responsibilities
 
+### Processes to model
+#### Home page
+
+(The code for the app we'll use in the workshop is here: https://github.com/makersacademy/process_modelling)
+
+A user visits https://makers-cats.herokuapp.com/ in their browser and is shown this HTML:
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Req/Res</title>
+  </head>
+  <body>
+    <ul>
+      <a href="list.html">a list</a>
+      <a href="cats.html">a cat pic</a>
+    </ul>
+  </body>
+</html>
+```
+
+What if the user mistyped this url? Try to include more details into your model.
+
+#### Cat page
+
+A user clicks the a cat pic link and is shown this HTML:
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>a cat</title>
+  </head>
+  <body>
+    <img src='cat.jpg'>
+  </body>
+</html>
+```
+
+Don't forget to model the cat.jpg request and response.
+
+#### Mailing list page
+
+A user clicks the list link and is shown this HTML:
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>A list</title>
+  </head>
+  <body>
+    <form action="thanks.html" method="POST">
+      <input type="text" name="email">
+      <input type="submit">
+    </form>
+  </body>
+</html>
+```
+
+The user fills in their email address and clicks the submit button.
+
+The user is sent to the thanks.html page and is shown this HTML:
+
+```
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Thanks page</title>
+  </head>
+  <body>
+    <h1>Thanks!</h1>
+  </body>
+</html>
+```
+
 ![HTTP diagram](https://user-images.githubusercontent.com/49643736/69631193-8a760680-1045-11ea-8f6e-3b558b34a5a9.jpg)
 
 ------------
