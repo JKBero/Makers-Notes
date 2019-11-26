@@ -265,6 +265,8 @@ NVC (Non-Violent Communication)
 
 ## Process modelling workshop
 
+**Applied to HTTP request/response cycle**
+
 Model = a visual representation
 - Oversight of how things work
 - Detailing relationships between systems & objects
