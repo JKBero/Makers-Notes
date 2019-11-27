@@ -2,7 +2,7 @@
 
 ["Magic Numbers"](#magic-numbers) | [Single Responsibility Principle](#single-responsibility-principle) | [Encapsulation](#encapsulation)
 
-[Debugging workshop](#debugging-workshop) | [TDD workshop](#tdd-workshop) | [Feedback workshop](#feedback-workshop) | [Process modelling workshop](#process-modelling-workshop)
+[Debugging workshop](#debugging-workshop) | [TDD workshop](#tdd-workshop) | [Feedback workshop](#feedback-workshop) | [Process modelling workshop](#process-modelling-workshop) | [Empathy workshop](#empathy_workshop)
 
 ### "Magic Numbers"
 
@@ -359,3 +359,33 @@ The user is sent to the thanks.html page and is shown this HTML:
 
 ------------
 ------------
+
+## Empathy workshop
+
+- Imperative for teamwork
+- Understanding the frustrations etc. of a customer
+- Being able to use empathy to understand a market and create products to help them / suit their needs
+- Empathy for yourself ("Would you say this to your friends?")
+
+Book: *The 5 Dysfunctions of a Team*
+
+**3 types of empathy:**
+Affective - feeling emotionally with someone else but not driven to help in a certain way
+Empathic concern - Consciously understanding and internalising the emotions of another person - driven to help or respond appropriately
+Cognitive - consciously imagining how someone is feeling wihout internalising it. E.g. negotiations or doctors with patients.
+
+**4 reasons why empathy may be missing:**
+1. Anger - feel numb towards another's pain / we feel contempt due to resentment etc.
+2. Protection - unconsciously feeling as though another's pain is like a "virus"
+3. Identifying - "too close to home"/triggering
+4. Fear of intimacy - being emotionally distant is easier; fear of vulnerability
+
+**Training:**
+1. "Just like me" - apart of a similar tribe / the commonalities
+2. Metta Bhavana - loving kindness meditation; rewiring the brain for empathy (sounds similar to impacts of prayer - research)
+3. Empathetic Active Listening
+    1. Reflect back
+    2. Ask questions instead of give answers
+    3. Validate emotions (even if you disagree with their logic)
+    4. Don't offer unsolicited advice
+    5. Be present - 80/20
