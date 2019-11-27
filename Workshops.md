@@ -389,3 +389,6 @@ Cognitive - consciously imagining how someone is feeling wihout internalising it
     3. Validate emotions (even if you disagree with their logic)
     4. Don't offer unsolicited advice
     5. Be present - 80/20
+
+----------
+----------
