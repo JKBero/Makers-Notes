@@ -385,7 +385,7 @@ Cognitive - consciously imagining how someone is feeling wihout internalising it
 2. Metta Bhavana - loving kindness meditation; rewiring the brain for empathy (sounds similar to impacts of prayer - research)
 3. Empathetic Active Listening
     1. Reflect back
-    2. Ask questions instead of give answers
+    2. Ask questions instead of give answers - "don't try to be interesting, try to be interested"
     3. Validate emotions (even if you disagree with their logic)
     4. Don't offer unsolicited advice
     5. Be present - 80/20
