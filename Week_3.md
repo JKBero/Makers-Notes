@@ -44,7 +44,6 @@
   - Research Metta Bhavana meditation (seems the personal benefits are very similar to prayer)
 - Finish Server practical
 
-
 ### Reflections
 
 
