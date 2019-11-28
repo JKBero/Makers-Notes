@@ -2,7 +2,7 @@
 
 ["Magic Numbers"](#magic-numbers) | [Single Responsibility Principle](#single-responsibility-principle) | [Encapsulation](#encapsulation)
 
-[Debugging workshop](#debugging-workshop) | [TDD workshop](#tdd-workshop) | [Feedback workshop](#feedback-workshop) | [Process modelling workshop](#process-modelling-workshop) | [Empathy workshop](#empathy_workshop)
+[Debugging workshop](#debugging-workshop) | [Debugging Web Apps](#debugging-web-apps) | [TDD workshop](#tdd-workshop) | [Feedback workshop](#feedback-workshop) | [Process modelling workshop](#process-modelling-workshop) | [Empathy workshop](#empathy_workshop)
 
 ### "Magic Numbers"
 
@@ -49,9 +49,8 @@ Bugs:
 - Program not terminating; infinite loop / code hangs
 - Unexpected results
 
-Tighten the loop = find the right line  
-Get visibility = use ‘p’ to get visibility on each line  
-Follow the stack trace  
+Tighten the loop = find the right line / follow the stack trace
+Get visibility = use ```p``` to get visibility on each line 
 
 --------------
 --------------
@@ -392,3 +391,10 @@ Cognitive - consciously imagining how someone is feeling wihout internalising it
 
 ----------
 ----------
+
+# Debugging Web Apps
+
+Bug = Unexpected behaviour
+- Tightening the loop
+- Get visibility using ```p```
+
