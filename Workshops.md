@@ -50,7 +50,7 @@ Bugs:
 - Unexpected results
 
 Tighten the loop = find the right line / follow the stack trace
-Get visibility = use ```p``` to get visibility on each line  
+Get visibility = use ```p``` to get visibility on each line. 
 If you locate the issue, fix it  
 Rerun the tests   
 If they *don't* pass, revert the changes and restart the debugging process  
