@@ -44,7 +44,6 @@
 ### Goal Setting
 - Attend Empathy workshop ((see [workshops](https://github.com/JKBero/Makers-Notes/blob/master/Workshops.md))
   - Practice active listening more
-  - Research Metta Bhavana meditation (seems the personal benefits are very similar to prayer)
 - Finish Server practical
 
 Video: [There and Back Again A Packet's Tale - How does the Internet work](https://www.youtube.com/watch?v=qEdv_pem-JM&fbclid=IwAR1pJ3p9h9YOiFJjxLiqzMMXS7X_xQOd7o2mfAdOr8nHCYoXuVa-XtNFV7o&app=desktop)
