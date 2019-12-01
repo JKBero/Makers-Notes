@@ -2,7 +2,10 @@
 
 [Day 1](#day-1) | [Day 2](#day-2) | [Day 3](#day-3) | [Day 4](#day-4) | [Day 5](#day-5) | [Weekend Challenge](#weekend-challenge) | [Gaps in Knowledge](#gaps-in-knowledge) 
 
-
+- Build a simple web app  
+- Follow an effective debugging process for web applications  
+- Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)  
+- Explain the MVC pattern 
 
 ---------
 
