@@ -4,6 +4,11 @@
 
 [Debugging workshop](#debugging-workshop) | [TDD workshop](#tdd-workshop) | [Feedback workshop](#feedback-workshop) | [Process modelling workshop](#process-modelling-workshop) | [Empathy workshop](#empathy_workshop)
 
+- Build a simple web app  
+- Follow an effective debugging process for web applications  
+- Explain the basics of how the web works (e.g. request/response, HTTP, HTML, CSS)  
+- Explain the MVC pattern  
+
 ### "Magic Numbers"
 
 [Eliot Sykes' definition:](https://www.eliotsykes.com/magic-numbers)
