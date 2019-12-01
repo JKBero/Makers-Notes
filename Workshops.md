@@ -2,7 +2,7 @@
 
 ["Magic Numbers"](#magic-numbers) | [Single Responsibility Principle](#single-responsibility-principle) | [Encapsulation](#encapsulation)
 
-[Debugging workshop](#debugging-workshop) | [Debugging Web Apps](#debugging-web-apps) | [TDD workshop](#tdd-workshop) | [Feedback workshop](#feedback-workshop) | [Process modelling workshop](#process-modelling-workshop) | [Empathy workshop](#empathy_workshop)
+[Debugging workshop](#debugging-workshop) | [TDD workshop](#tdd-workshop) | [Feedback workshop](#feedback-workshop) | [Process modelling workshop](#process-modelling-workshop) | [Empathy workshop](#empathy_workshop)
 
 ### "Magic Numbers"
 
@@ -51,6 +51,9 @@ Bugs:
 
 Tighten the loop = find the right line / follow the stack trace
 Get visibility = use ```p``` to get visibility on each line 
+If you locate the issue, fix it
+Rerun the tests
+If they *don't* pass, revert the changes and restart the debugging process
 
 --------------
 --------------
@@ -392,9 +395,6 @@ Cognitive - consciously imagining how someone is feeling wihout internalising it
 ----------
 ----------
 
-# Debugging Web Apps
 
-Bug = Unexpected behaviour
-- Tightening the loop
-- Get visibility using ```p```
+
 
