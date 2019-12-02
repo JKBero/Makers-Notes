@@ -75,3 +75,4 @@ Video: [There and Back Again A Packet's Tale - How does the Internet work](https
 | Class methods and how to use them | | Rock/Paper/Scissors |  |
 | How to keep controller "skinny" | | Rock/Paper/Scissors | |
 | Keeping separation of concerns within MVC elements | | Rock/Paper/Scissors | |
+| Singleton pattern - should this be used within app? | https://www.rubyguides.com/2018/05/singleton-pattern-in-ruby/ | | |
