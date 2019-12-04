@@ -185,15 +185,15 @@ Getting started was the hardest part: While tackling the Birthdays project, I sp
   
 ## Gaps in Knowledge
   
-| Knowledge gap | Resources read | Practicals/projects | Other |
-| --- | --- | --- | --- |
-| feature tests vs user test | [Boris Bikes Step 3 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/3_from_domain_models_to_feature_tests.md)| Boris Bikes, Birthdays, Airport Challenge | Explained to Ellie + TDD workshop |
-| user stories -> Domain Model | [Boris Bikes Step 2 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/2_working_with_user_stories.md) | Boris Bikes, Airport Challenge | Explained to Ellie |
-| rspec syntax | [Boris Bikes Step 8 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/8_back_to_the_unit.md)| Boris Bikes, Birthdays, Airport Challenge | Help from coach, retrospective |
-| rspec raise_error & ruby fail/raise methods | | Boris Bikes, Airport Challenge | |
-| debugging -> using the stack trace | [Boris Bikes Step 4 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/4_errors_are_good.md) | Boris Bikes, Birthdays, Airport Challenge | Debugging workshop |
-| [BDD cycle](https://github.com/makersacademy/course/blob/master/pills/bdd_cycle.md) | | | |
-| more familiarity with README structures | | Airport Challenge | |
-| difference between attr_reader & def initialize | | Airport Challenge | Explanation from Ellie & Danny & experimentation |
-| how does test coverage work in simplecov? | | Airport Challenge | Explanation from coach & experimentation |
+| Knowledge gap | Resources read | Practicals/projects | Other | Understanding |
+| --- | --- | --- | --- | --- |
+| feature tests vs user test | [Boris Bikes Step 3 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/3_from_domain_models_to_feature_tests.md)| Boris Bikes, Birthdays, Airport Challenge | Explained to Ellie + TDD workshop | Green |
+| user stories -> Domain Model | [Boris Bikes Step 2 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/2_working_with_user_stories.md) | Boris Bikes, Airport Challenge | Explained to Ellie | Green |
+| rspec syntax | [Boris Bikes Step 8 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/8_back_to_the_unit.md)| Boris Bikes, Birthdays, Airport Challenge | Help from coach, retrospective | Green |
+| rspec raise_error & ruby fail/raise methods | | Boris Bikes, Airport Challenge | | Amber |
+| debugging -> using the stack trace | [Boris Bikes Step 4 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/4_errors_are_good.md) | Boris Bikes, Birthdays, Airport Challenge | Debugging workshop | Green |
+| [BDD cycle](https://github.com/makersacademy/course/blob/master/pills/bdd_cycle.md) | | | | Red |
+| more familiarity with README structures | | Airport Challenge | | Red |
+| difference between attr_reader & def initialize | | Airport Challenge | Explanation from Ellie & Danny & experimentation | Green |
+| how does test coverage work in simplecov? | | Airport Challenge | Explanation from coach & experimentation | Green |
 
