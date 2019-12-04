@@ -99,5 +99,10 @@
   
 | Knowledge gap | Resources read | Practicals/projects | Other | Understanding :vertical_traffic_light: |
 | --- | --- | --- | --- | --- |
-|  | | | | |
-|  | | | | |
+| [Encapsulation & Cohesion](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md) | | | | |
+| [Forwarding, Polymorphism](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md) | | | | |
+| [Dependency Injection](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md) | | | | |
+| [Entity Relationship Diagrams](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md) | | | | |
+| [Databases - Domain Modelling using CRC Cards](https://github.com/makersacademy/skills-workshops/tree/master/week-4/domain_modelling_student_directory_using_crc_cards) | | | | |
+| [REST](https://github.com/sjmog/rest)| | | | |
+| | | | | |
