@@ -92,16 +92,16 @@
   
   ## Gaps in Knowledge
   
-| Knowledge gap | Resources read | Practicals/projects | Other |
-| --- | --- | --- | --- |
-| Installing and upgrading gems using Bundler | | Oystercard | Talked through with Ellie |
-| Explain the structure of a Gemfile | | Oystercard | Talked through with Ellie |
-| What do default options in RSpec configuration file mean? | | | |
-| What's a class constructor? What is the initialize method? How are they different? | | Boris Bike, Airport, Oystercard | Talked through with Ellie |
-| When do you have to use a return statement in Ruby and when can you omit it? | | experimented in IRB | Talked through with Ellie |
-| What are instance variables and how are they different from local variables? | | | Talked through with Ellie |
-| What are exceptions in Ruby? Why do they have messages associated with them? | http://rubylearning.com/satishtalim/ruby_exceptions.html | Boris Bike, Airport, Oystercard | Alistair explained it |
-| How can you check an expression raises an error with RSpec? Why do you have to pass the code as a block to do this? | https://stackoverflow.com/questions/21567838/when-to-use-curly-braces-vs-parenthesis-in-expect-rspec-method  "As for rules, you pass a block or a Proc if you're trying to test behavior (e.g. raising errors, changing some value). Otherwise, you pass a "conventional" argument, in which case the value of that argument is what is tested." | | Talked through with Ellie |
-| UML (link in debugging workshop) | | | |
-| Dependency Inversion Principle | http://www.getlaura.com/dependency-inversion-principle-in-ruby/ | Oystercard | | 
-| Using APIs | | Takeaway challenge | |
+| Knowledge gap | Resources read | Practicals/projects | Other | Understanding :vertical_traffic_light: |
+| --- | --- | --- | --- | --- |
+| Installing and upgrading gems using Bundler | | Oystercard | Talked through with Ellie | :green_book: |
+| Explain the structure of a Gemfile | | Oystercard | Talked through with Ellie | :green_book: |
+| What do default options in RSpec configuration file mean? | | | | :closed_book: |
+| What's a class constructor? What is the initialize method? How are they different? | | Boris Bike, Airport, Oystercard | Talked through with Ellie | :closed_book: |
+| When do you have to use a return statement in Ruby and when can you omit it? | | experimented in IRB | Talked through with Ellie | :orange_book: |
+| What are instance variables and how are they different from local variables? | | | Talked through with Ellie | :green_book: |
+| What are exceptions in Ruby? Why do they have messages associated with them? | http://rubylearning.com/satishtalim/ruby_exceptions.html | Boris Bike, Airport, Oystercard | Alistair explained it | :green_book: |
+| How can you check an expression raises an error with RSpec? Why do you have to pass the code as a block to do this? | https://stackoverflow.com/questions/21567838/when-to-use-curly-braces-vs-parenthesis-in-expect-rspec-method  "As for rules, you pass a block or a Proc if you're trying to test behavior (e.g. raising errors, changing some value). Otherwise, you pass a "conventional" argument, in which case the value of that argument is what is tested." | | Talked through with Ellie | :green_book: |
+| UML (link in debugging workshop) | | | | :closed_book: |
+| Dependency Inversion Principle | http://www.getlaura.com/dependency-inversion-principle-in-ruby/ | Oystercard | | :orange_book: |
+| Using APIs | | Takeaway challenge | | :closed_book: |
