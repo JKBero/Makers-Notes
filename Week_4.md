@@ -99,7 +99,7 @@
   
 | Knowledge gap | Resources read | Practicals/projects | Other | Understanding :vertical_traffic_light: |
 | --- | --- | --- | --- | --- |
-| [Encapsulation & Cohesion](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md) | | | | |
+| [Encapsulation & Cohesion](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/encapsulation.md) | see [workshops](https://github.com/JKBero/Makers-Notes/blob/master/Workshops.md) | | read through practical | :green_book: |
 | [Forwarding, Polymorphism](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/oo_relationships.md) | see [workshops](https://github.com/JKBero/Makers-Notes/blob/master/Workshops.md) | Practicals | | :green_book: |
 | [Dependency Injection](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md) | | | | |
 | [Entity Relationship Diagrams](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md) | | | | |
