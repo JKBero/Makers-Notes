@@ -32,7 +32,17 @@
 > Advantages of Encapsulation:
 > - Data Hiding: The user will have no idea about the inner implementation of the class. It will not be visible to the user that how the class is storing values in the variables. He only knows that we are passing the values to a setter method and variables are getting initialized with that value.
 > - Reusability: Encapsulation also improves the re-usability and easy to change with new requirements.
-> - Testing code is easy: Encapsulated code is easy to test for unit testing.
+> - Testing code is easy: Encapsulated code is easy to test for unit testing.  
+  
+-----------  
+  
+### Polymorphism
+
+[Back to Basics: Polymorphism and Ruby](https://thoughtbot.com/blog/back-to-basics-polymorphism-and-ruby)
+
+> Polymorphism - the provision of a single interface to entities of different types.  
+>   
+> Polymorphism is one of the fundamental features of object oriented programming, but what exactly does it mean? At its core, in Ruby, it means being able to send the same message to different objects and get different results.
 
 -------------
 -------------
