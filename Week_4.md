@@ -62,7 +62,7 @@
   
   ## Gaps in Knowledge
   
-| Knowledge gap | Resources read | Practicals/projects | Other |
-| --- | --- | --- | --- |
-|  | |  |  |
-|  | | | |
+| Knowledge gap | Resources read | Practicals/projects | Other | Understanding :vertical_traffic_light: |
+| --- | --- | --- | --- | --- |
+|  | | | | |
+|  | | | | |
