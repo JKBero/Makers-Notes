@@ -70,10 +70,10 @@ Video: [There and Back Again A Packet's Tale - How does the Internet work](https
   
   ## Gaps in Knowledge
   
-| Knowledge gap | Resources read | Practicals/projects | Other |
-| --- | --- | --- | --- |
-| Class methods and how to use them | | Rock/Paper/Scissors |  |
-| How to keep controller "skinny" | | Rock/Paper/Scissors | |
-| Keeping separation of concerns within MVC elements | | Rock/Paper/Scissors | |
-| Singleton pattern - should this be used within app? | https://www.rubyguides.com/2018/05/singleton-pattern-in-ruby/ | | |
-| Difference between class methods & instance methods | | | |
+| Knowledge gap | Resources read | Practicals/projects | Other | Understanding :vertical_traffic_light: |
+| --- | --- | --- | --- | --- |
+| Class methods and how to use them | | Rock/Paper/Scissors | | :closed_book: |
+| How to keep controller "skinny" | | Rock/Paper/Scissors | | :green_book: |
+| Keeping separation of concerns within MVC elements | | Rock/Paper/Scissors | | :orange_book: |
+| Singleton pattern - should this be used within app? | https://www.rubyguides.com/2018/05/singleton-pattern-in-ruby/ | | | :orange_book: |
+| Difference between class methods & instance methods | | | | :orange_book: |
