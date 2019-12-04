@@ -10,28 +10,63 @@
 
 ## Day 1
 
-### Goal Setting
+### Code review of RPS weekend challenge
+- good logic and refactoring; controller was "skinny"
+- thorough feauture & unit tests
+- forgot to make frequent commits
+- can call class attributes directly in views, rather than defining them repetitively in controller
 
+### Pairing (covered many new subjects)
+- Practised writing user stories & domain models
+- Practised writing/formatting README
+- Practised setting up web project from scratch
+- Setting up MVC
+- Installing PostgreSQL
+- Use the psql command to interact with Postgres
+- Create tables using SQL
+- Use SQL terms like SELECT, FROM, WHERE and * to query a database table  
+- Use SQL terms like INSERT, UPDATE and DELETE to create, update and delete database entries
+- Attach a database to a web application
+  
+**What is a database?**
 
-### Code review
+> A database is simply organised part of a filesystem. It's optimised for storing and retrieving data.
 
+**Is Postgres a database?**
 
-### Pairing
-
+> A common database system for modern web development is called PostgreSQL.  
+>   
+> PostgreSQL is actually a server that runs a database. Therefore, it can be started, stopped, and interacted with through an interface, psql.  
+>   
+> psql = PostgreSQL's built-in interface  
+> pg = PostgreSQL's official Ruby interface
 
 ----------
 
 ## Day 2
 
 ### Goal Setting
+- Practise SQL queries; https://sqlzoo.net/wiki/  
 
+### Pairing
+- Use database GUIs to interact with databases: Connect TablePlus to your PostgreSQL database management system.  
+- Set up a test environment:  
+  - You are using the databases in the correct contexts, so that:  
+    - When you run tests using rspec, bookmarks are read from the new bookmark_manager_test database.  
+    - When you run the application locally, bookmarks are read from the bookmark_manager database.  
+  - Write a helper method that truncates (empties) the bookmarks table in the test database before each test run.  
+  - Run this helper method automatically right before each RSpec spec, so every test starts with a 'clean' test database.  
+  - Add required test bookmarks to the bookmark_manager_test database in the feature and Bookmark tests.  
+  - Make sure your feature and unit tests are passing.  
+  - Update your database setup instructions to include the test database.
 
 ----------
 
 ## Day 3
 
 ### Goal Setting
-
+- Update/clean-up Makers' Notes folder
+- Research some previous gaps in knowledge and update progress
 
 ### Reflections
 
