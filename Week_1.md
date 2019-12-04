@@ -194,6 +194,6 @@ Getting started was the hardest part: While tackling the Birthdays project, I sp
 | debugging -> using the stack trace | [Boris Bikes Step 4 resources](https://github.com/makersacademy/course/blob/master/boris_bikes/4_errors_are_good.md) | Boris Bikes, Birthdays, Airport Challenge | Debugging workshop |
 | [BDD cycle](https://github.com/makersacademy/course/blob/master/pills/bdd_cycle.md) | | | |
 | more familiarity with README structures | | Airport Challenge | |
-| difference between attr_reader & def initialize | | Airport Challenge | |
-| how does test coverage work in simplecov? | | Airport Challenge | |
+| difference between attr_reader & def initialize | | Airport Challenge | Explanation from Ellie & Danny & experimentation |
+| how does test coverage work in simplecov? | | Airport Challenge | Explanation from coach & experimentation |
 
