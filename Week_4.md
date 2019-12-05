@@ -90,7 +90,28 @@
   - Updating data
   - Deleting data
 - CRUD application is one that creates, reads, updates, and deletes data. The majority of web applications are, essentially, CRUD applications.
+- RESTful routes: Used ```method_override``` in Sinatra.   
 
+*In Controller:*
+```
+enable :method_override  
+
+delete '/bookmarks/:id' do
+  Bookmark.delete(id: params[:id])
+  redirect '/bookmarks'
+end
+```
+
+*In View:*
+```
+<li class='bookmark' id="bookmark-<%=bookmark.id%>">
+  <a href='<%= bookmark.url%>'> <%= bookmark.title %> </a>
+  <form action='/bookmarks/<%=bookmark.id%>' method='post'>
+    <input type='hidden' name='_method' value='DELETE'>
+    <input type='submit' value='Delete'>
+  </form>
+</li>
+```
 
 -----------  
 
@@ -119,4 +140,4 @@
 | [Entity Relationship Diagrams](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md) | see [workshops](https://github.com/JKBero/Makers-Notes/blob/master/Workshops.md)| Practical | | :green_book: |
 | [Databases - Domain Modelling using CRC Cards](https://github.com/makersacademy/skills-workshops/tree/master/week-4/domain_modelling_student_directory_using_crc_cards) | see [workshops](https://github.com/JKBero/Makers-Notes/blob/master/Workshops.md) | Workshop exercise | | :orange_book: |
 | [REST](https://github.com/sjmog/rest)| | | | |
-| | | | | |
+| method_override in Sinatra & DELETE vs POST | | | | :closed_book: |
