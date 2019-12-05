@@ -405,6 +405,18 @@ Cognitive - consciously imagining how someone is feeling wihout internalising it
 ----------
 ----------
 
+## Databases - Domain Modelling using CRC Cards  
+
+**[Class Responsibility Collaborator (CRC) Models: An Agile Introduction:](http://agilemodeling.com/artifacts/crcModel.htm)**
+
+> A Class Responsibility Collaborator (CRC) model (Beck & Cunningham 1989; Wilkinson 1995; Ambler 1995) is a collection of standard index cards that have been divided into three sections. A class represents a collection of similar objects, a responsibility is something that a class knows or does, and a collaborator is another class that a class interacts with to fulfill its responsibilities.  
+
+| Class name |
+| Responsibilities | Collaborators |
+| --- | --- |  
+
+----------
+----------
 
 
 
