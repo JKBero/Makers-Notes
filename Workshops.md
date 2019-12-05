@@ -1,8 +1,15 @@
 # Workshops
 
-["Magic Numbers"](#magic-numbers) | [Single Responsibility Principle](#single-responsibility-principle) | [Encapsulation](#encapsulation) | [Polymorphism](#polymorphism)
-
-[Debugging workshop](#debugging-workshop) | [TDD workshop](#tdd-workshop) | [Feedback workshop](#feedback-workshop) | [Process modelling workshop](#process-modelling-workshop) | [Empathy workshop](#empathy-workshop) | [Databases - Domain Modelling using CRC Cards](#databases---domain-modelling-using-crc-cards)    
+- ["Magic Numbers"](#magic-numbers)  
+- [Single Responsibility Principle](#single-responsibility-principle)  
+- [Encapsulation](#encapsulation)  
+- [Polymorphism](#polymorphism)  
+- [Debugging workshop](#debugging-workshop)  
+- [TDD workshop](#tdd-workshop)  
+- [Feedback workshop](#feedback-workshop)  
+- [Process modelling workshop](#process-modelling-workshop)  
+- [Empathy workshop](#empathy-workshop)  
+- [Databases - Domain Modelling using CRC Cards](#databases---domain-modelling-using-crc-cards)    
 
 ### "Magic Numbers"
 
