@@ -425,6 +425,11 @@ Cognitive - consciously imagining how someone is feeling wihout internalising it
 | Drop a seminar | |
 | Request transcripts | |
 
+Example CRC & database structures:
+- Short example [here](https://github.com/makersacademy/skills-workshops/blob/master/week-4/domain_modelling_student_directory_using_crc_cards/crc_example.md)  
+- Workshop exercises [here](https://github.com/makersacademy/skills-workshops/tree/master/week-4/domain_modelling_student_directory_using_crc_cards).  
+- Workshop solutions [here](https://github.com/makersacademy/skills-workshops/blob/master/week-4/domain_modelling_student_directory_using_crc_cards/COACH_INSTRUCTIONS.md).  
+
 ----------
 ----------
 
