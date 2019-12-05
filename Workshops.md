@@ -9,7 +9,8 @@
 - [Feedback workshop](#feedback-workshop)  
 - [Process modelling workshop](#process-modelling-workshop)  
 - [Empathy workshop](#empathy-workshop)  
-- [Databases - Domain Modelling using CRC Cards](#databases---domain-modelling-using-crc-cards)    
+- [Databases - Domain Modelling using CRC Cards](#databases---domain-modelling-using-crc-cards)  
+    - [Entity Relationship Diagrams](#entity-relationship-diagrams)
 
 ### "Magic Numbers"
 
@@ -432,10 +433,36 @@ Cognitive - consciously imagining how someone is feeling wihout internalising it
 | Drop a seminar | |
 | Request transcripts | |
 
-Example CRC & database structures:
+### Example CRC & database structures:
 - Short example [here](https://github.com/makersacademy/skills-workshops/blob/master/week-4/domain_modelling_student_directory_using_crc_cards/crc_example.md)  
 - Workshop exercises [here](https://github.com/makersacademy/skills-workshops/tree/master/week-4/domain_modelling_student_directory_using_crc_cards).  
 - Workshop solutions [here](https://github.com/makersacademy/skills-workshops/blob/master/week-4/domain_modelling_student_directory_using_crc_cards/COACH_INSTRUCTIONS.md).  
+
+### [Entity Relationship Diagrams](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md)
+
+**One to one relationships**  
+  
+One Cohort has one SlackChannel.  
+  
+![one-to-one](https://raw.githubusercontent.com/makersacademy/skills-workshops/master/practicals/databases/diagrams/one-to-one.png?token=AL2YBWH2FPMYDOGLWIVF2NK56I2ME)  
+  
+**One to many relationships**  
+  
+One Cohort has many Students.  
+  
+![one-to-many](https://raw.githubusercontent.com/makersacademy/skills-workshops/master/practicals/databases/diagrams/one-to-many.png?token=AL2YBWCFP5IZAR6GNN5E4AC56I2VO)  
+  
+**Many to many relationships**  
+  
+A SlackChannel has many Students. A Student has many SlackChannels.  
+  
+![many-to-many](https://raw.githubusercontent.com/makersacademy/skills-workshops/master/practicals/databases/diagrams/many-to-many1.png?token=AL2YBWCCDT2MAFDKWMLRUQC56IWZM)  
+  
+**Normalizing many to many relationships**
+  
+Slack Channels have many memberships. Students have many memberships.  
+  
+![normalizing-many-to-many](https://raw.githubusercontent.com/makersacademy/skills-workshops/master/practicals/databases/diagrams/many-to-many2.png?token=AL2YBWC7LQQPE6QKKWT7NBS56IWZM)  
 
 ----------
 ----------
