@@ -83,7 +83,14 @@
 - Complete 'Databases - Domain Modelling using CRC Cards' workshop (see [workshops](https://github.com/JKBero/Makers-Notes/blob/master/Workshops.md))
 
 ### Pairing
-- ```is_url?("url")``` is in a gem called lapis_lazuli (documentation [here](https://github.com/spriteCloud/lapis-lazuli)). Did not use gem in the end; instead used a simpler form instead ```raise "Invalid url" unless url.include?("http://") || url.include?("https://")```.  
+- ```is_url?("url")``` is in a gem called lapis_lazuli (documentation [here](https://github.com/spriteCloud/lapis-lazuli)). Did not use gem in the end; instead used a simpler form instead ```raise "Invalid url" unless url.start_with?("http://", "https://")```.  
+- There are generally four actions you can take with persistent data:
+  - Creating data
+  - Reading data
+  - Updating data
+  - Deleting data
+- CRUD application is one that creates, reads, updates, and deletes data. The majority of web applications are, essentially, CRUD applications.
+
 
 -----------  
 
