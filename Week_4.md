@@ -125,7 +125,8 @@ end
 ## Day 5
 
 ### Goal Setting
-
+ - Read through [REST](https://github.com/sjmog/rest) workshop
+ - More research on DELETE/POST & method_override in Sinatra
 
 -----------
 
