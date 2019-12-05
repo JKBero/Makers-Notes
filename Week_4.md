@@ -68,15 +68,22 @@
 - Update/clean-up Makers' Notes folder
 - Research some previous gaps in knowledge and update progress
 
-### Reflections
+### Pairing
+- Used capybara matcher ```have_link("Youtube", href: "https://www.youtube.com")```
+- Debugging: did not put in a fail-safe for an invalid url, so website didn't work when adding "www.youtube.com" with "http://" at start.
+- Completed a full-stack feature.
+- Wrapped database data in program object, i.e. each row of the table became an instance of the Bookmark class.
 
 -----------
 
 ## Day 4
 
 ### Goal Setting
+- Research how to use gem with ```is_url?("https://www.youtube.com")``` or fail-safe alternative
+- Complete 'Databases - Domain Modelling using CRC Cards' workshop
 
-
+### Pairing
+- ```is_url?("url")``` is in a gem called lapis_lazuli (documentation [here](https://github.com/spriteCloud/lapis-lazuli)). Did not use gem in the end; instead used a simpler form instead ```raise "Invalid url" unless url.include?("http://") || url.include?("https://")```.  
 
 -----------  
 
