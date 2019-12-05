@@ -411,7 +411,7 @@ Cognitive - consciously imagining how someone is feeling wihout internalising it
 
 > A Class Responsibility Collaborator (CRC) model (Beck & Cunningham 1989; Wilkinson 1995; Ambler 1995) is a collection of standard index cards that have been divided into three sections. A class represents a collection of similar objects, a responsibility is something that a class knows or does, and a collaborator is another class that a class interacts with to fulfill its responsibilities.  
 
-| Class name |
+Class name
 | Responsibilities | Collaborators |
 | --- | --- |  
 
