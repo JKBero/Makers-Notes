@@ -70,7 +70,7 @@
 
 ### Pairing
 - Used capybara matcher ```have_link("Youtube", href: "https://www.youtube.com")```
-- Debugging: did not put in a fail-safe for an invalid url, so website didn't work when adding "www.youtube.com" with "http://" at start.
+- Debugging: did not put in a fail-safe for an invalid url, so website didn't work when adding "www.youtube.com" without "http://" at start.
 - Completed a full-stack feature.
 - Wrapped database data in program object, i.e. each row of the table became an instance of the Bookmark class.
 
