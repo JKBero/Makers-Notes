@@ -111,7 +111,14 @@ end
     <input type='submit' value='Delete'>
   </form>
 </li>
-```
+```  
+[Sinatra docs](http://sinatrarb.com/configuration.html):  
+
+> **:method_override - enable/disable the POST _method hack**  
+>  
+> Boolean specifying whether the HTTP POST ```_method``` parameter hack should be enabled. When ```true```, the actual HTTP request method is overridden by the value of the ```_method``` parameter included in the POST body. The _method hack is used to make POST requests look like other request methods (e.g., ```PUT```, ```DELETE```) and is typically only needed in shitty environments – like HTML form submission – that do not support the full range of HTTP methods.  
+> 
+> The POST ```_method``` hack is implemented by inserting the ```Rack::MethodOverride``` component into the middleware pipeline.  
 
 -----------  
 
