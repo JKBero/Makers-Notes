@@ -2,7 +2,7 @@
 
 ["Magic Numbers"](#magic-numbers) | [Single Responsibility Principle](#single-responsibility-principle) | [Encapsulation](#encapsulation) | [Polymorphism](#polymorphism)
 
-[Debugging workshop](#debugging-workshop) | [TDD workshop](#tdd-workshop) | [Feedback workshop](#feedback-workshop) | [Process modelling workshop](#process-modelling-workshop) | [Empathy workshop](#empathy_workshop)   
+[Debugging workshop](#debugging-workshop) | [TDD workshop](#tdd-workshop) | [Feedback workshop](#feedback-workshop) | [Process modelling workshop](#process-modelling-workshop) | [Empathy workshop](#empathy-workshop) | [Databases - Domain Modelling using CRC Cards](#databases---domain-modelling-using-crc-cards)    
 
 ### "Magic Numbers"
 
@@ -409,13 +409,21 @@ Cognitive - consciously imagining how someone is feeling wihout internalising it
 
 **[Class Responsibility Collaborator (CRC) Models: An Agile Introduction:](http://agilemodeling.com/artifacts/crcModel.htm)**
 
-> A Class Responsibility Collaborator (CRC) model (Beck & Cunningham 1989; Wilkinson 1995; Ambler 1995) is a collection of standard index cards that have been divided into three sections. A class represents a collection of similar objects, a responsibility is something that a class knows or does, and a collaborator is another class that a class interacts with to fulfill its responsibilities.  
+> A Class Responsibility Collaborator (CRC) model (Beck & Cunningham 1989; Wilkinson 1995; Ambler 1995) is a collection of standard index cards that have been divided into three sections. A *class represents a collection of similar objects*, a *responsibility is something that a class knows or does*, and a *collaborator is another class that a class interacts with to fulfill its responsibilities*.  
+> 
+> Collaboration takes one of two forms: *A request for information or a request to do something*. For example, the card Student requests an indication from the card Seminar whether a space is available, a request for information. Student then requests to be added to the Seminar, a request to do something. Another way to perform this logic, however, would have been to have Student simply request Seminar to enroll himself into itself. Then have Seminar do the work of determining if a seat is available and, if so, then enrolling the student and, if not, then informing the student that he was not enrolled.
 
-Class name  
+**Student** 
 
 | Responsibilities | Collaborators |
 | --- | --- |  
-| | |
+| Student number | Seminar |
+| Name | |
+| Address | |
+| Phone number | |
+| Enroll in a seminar | |
+| Drop a seminar | |
+| Request transcripts | |
 
 ----------
 ----------
