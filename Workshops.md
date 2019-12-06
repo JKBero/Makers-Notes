@@ -11,6 +11,7 @@
 - [Empathy workshop](#empathy-workshop)  
 - [Databases - Domain Modelling using CRC Cards](#databases---domain-modelling-using-crc-cards)  
     - [Entity Relationship Diagrams](#entity-relationship-diagrams)
+- [RESTful Routes](#restful-routes)
 
 ### "Magic Numbers"
 
@@ -467,5 +468,23 @@ Cognitive - consciously imagining how someone is feeling wihout internalising it
 ----------
 ----------
 
+## RESTful Routes  
+
+- The web is a network of **resources**, e.g. a bookmark stored as a row in a database.   
+- **Representations** tie URLs to actions a user might want to take with these resources.  
+- A representation is often a route to perform a specific action on a resource:
+    - ```GET /bookmarks/1```  
+    - ```GET /image.jpg```  
+    - ```GET /index.html```  
+- RESTful routing exposes the true nature of your web application: as a **state machine** capable of being in a finite number of different states. Movements between the states are determined by user interactions, and are called **state transitions**:  
+    - Having 35 bookmarks (state) 
+    - Adding a bookmark (state transition) 
+    - Having 36 bookmarks (state)
+- A well-designed application is a state machine. That is, it is a machine capable of being in various states.  
+- Using GET, DELETE, POST and so on, with well-formed URIs, is the way that a user navigates through different states of the machine.  
+- Each action the user takes returns a resource showing the next state of the application.  
+
+----------  
+----------  
 
 
