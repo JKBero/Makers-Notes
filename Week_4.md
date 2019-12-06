@@ -167,5 +167,5 @@ Write a test for a Bookmark.create method that takes properties as arguments, an
 | [Dependency Injection](https://github.com/makersacademy/skills-workshops/blob/master/practicals/object_oriented_design/dependency_injection.md) for testing in isolation | | Oystercard, Takeaway | Explained to colleague | :green_book: |
 | [Entity Relationship Diagrams](https://github.com/makersacademy/skills-workshops/blob/master/practicals/databases/entity_relationship_diagrams.md) | see [workshops](https://github.com/JKBero/Makers-Notes/blob/master/Workshops.md)| Practical | | :green_book: |
 | [Databases - Domain Modelling using CRC Cards](https://github.com/makersacademy/skills-workshops/tree/master/week-4/domain_modelling_student_directory_using_crc_cards) | see [workshops](https://github.com/JKBero/Makers-Notes/blob/master/Workshops.md) | Workshop exercise | | :orange_book: |
-| [REST](https://github.com/sjmog/rest)| | | | |
-| method_override in Sinatra & DELETE vs POST | | | | :closed_book: |
+| [REST](https://github.com/sjmog/rest)| see [workshops](https://github.com/JKBero/Makers-Notes/blob/master/Workshops.md) | | | :green_book: |
+| method_override in Sinatra & DELETE vs POST | Completion of REST above | | | :green_book: |
