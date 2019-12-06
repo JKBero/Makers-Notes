@@ -484,6 +484,10 @@ Cognitive - consciously imagining how someone is feeling wihout internalising it
 - Using GET, DELETE, POST and so on, with well-formed URIs, is the way that a user navigates through different states of the machine.  
 - Each action the user takes returns a resource showing the next state of the application.  
 
+### [POST vs PUT](https://restfulapi.net/rest-put-vs-post/)
+> Generally, in practice, always use PUT for UPDATE operations.  
+> Always use POST for CREATE operations.
+
 ----------  
 ----------  
 
