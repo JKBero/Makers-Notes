@@ -470,7 +470,7 @@ Cognitive - consciously imagining how someone is feeling wihout internalising it
 
 ## RESTful Routes  
 
-Source (along with useful online practise tool): [Rest](https://github.com/sjmog/rest/)
+Source (along with useful online practice tool): [Rest](https://github.com/sjmog/rest/)
 
 - The web is a network of **resources**, e.g. a bookmark stored as a row in a database.   
 - **Representations** tie URLs to actions a user might want to take with these resources.  
