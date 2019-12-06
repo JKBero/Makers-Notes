@@ -127,13 +127,33 @@ end
 ### Goal Setting
  - Read through [REST](https://github.com/sjmog/rest) workshop
  - More research on DELETE/POST & method_override in Sinatra
+ 
+### [Learning Objective Gaps - bookmark manager project](https://github.com/makersacademy/course/blob/master/bookmark_manager/learning_objectives.md)  
+💛 Implement a RESTful routing convention.  
+Turn routes like this: GET /show-bookmark-1 into routes like this: GET /bookmarks/1.  
+💚 Validate in the model layer.   
+Stop Bookmark.create from creating a bookmark record in the database if its URL is invalid.   
+💚 Build a Registration system.   
+Allow a user to sign up to an application through a clickable form. Also, encrypt their password.   
+💚 Build an Authentication system.   
+Allow a user to sign in to an application through a clickable form, using some details including their password.  
+❤️ Implement a one-to-many relationship.   
+Get all comments for a bookmark using SQL, or with a method like this: bookmark.comments.  
+💛 Use the psql command to interact with PostgreSQL.  
+Create a database in psql. Add a table. Add some records. Read those records.  
+💛 Implement a many-to-many relationship.  
+Get all tags for a bookmark using SQL, and all bookmarks for a tag using SQL, or with methods like this: bookmark.tags and tag.bookmarks.  
+💚 Use Rake to automate environment tasks.  
+Take a script you run from the command-line like this: ruby my_automation_script.rb and make it work when you do this: rake script:automate.  
+💛 Test-Drive advanced Objects in Ruby, including adapter, wrapper, and service objects.  
+Write a test for a Bookmark.create method that takes properties as arguments, and gives you back an object which exposes all those properties as attributes, and has an id attribute.  
 
 -----------
 
 ## Weekend Challenge  
 
 ### Goal Setting 
-
+- Work on the above learning objectives
   
 ------------------  
 ------------------  
