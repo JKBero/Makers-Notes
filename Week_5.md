@@ -26,6 +26,9 @@
 - Rewrite fizz buzz in JavaScript  
 
 ### Practical: [Learning a new language by translation](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A)  
+
+**Super handy: [Learn X in Y minutes - JavaScript](https://learnxinyminutes.com/docs/javascript/)**
+
 | Ruby terms | JavaScript equivalent |
 | ----- | ---- |
 | classes ```class Object``` | prototype ```function Cat(name, age) {};``` |
