@@ -47,11 +47,11 @@
 | ```self``` | ```this``` |
 | create instance of class ```Cat.new("Tibs")``` | ```new Cat("Tibs")``` |
 | conditionals ```if ... else ... end``` ```unless```| ```if (condition) {} else if (condition2) {} else {};```|
-| comparitors ```==``` ```>``` ```<=```| same, except with addition of ```===``` |
-| booleans ```true``` ```false``` | |
+| comparitors ```==``` ```>``` ```<=```| ```==``` compares any types, so ```1 == '1'``` is true, ```===``` doesn't compare different types, so ```1 === '1'``` is false |
+| booleans ```true``` ```false``` | Examples of expressions that can be converted to false are: ```null;``` ```NaN;``` ```0``` empty string (```""``` or ```''```) |
 | negation ```!``` | same |
-| and / or ```&&``` ```||``` | same |
-| conversions ```to_s``` ```to_i``` ```to_sym``` | Examples of expressions that can be converted to false are: ```null;``` ```NaN;``` ```0``` empty string (```""``` or ```''```) |
+| and / or ```&&``` | same |
+| conversions ```to_s``` ```to_i``` ```to_sym``` |  |
 | ```return``` | |
 | raise error ```raise``` ```fail``` | ```throw``` |
 | switches ```case ... when ... end``` | ```switch(expression) { case x: ... break; case y: ... break; default: ... }``` |
@@ -61,8 +61,7 @@
 | increment ```+=``` | ```++``` |
 | decrement ```-=``` | ```--``` |
 | to the power of ```**``` | same |
-
-
+| | ```typeof 3``` returns 'number' |
 
 
 ----------
