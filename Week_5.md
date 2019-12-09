@@ -11,6 +11,7 @@
 ## Day 1
 
 ### Goal setting
+- Research ORMs (object relational mappers, like Active Record)
 - 
 
 ### Reflections
