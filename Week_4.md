@@ -161,6 +161,11 @@ Write a test for a Bookmark.create method that takes properties as arguments, an
   - Add to Gemfile ```gem 'activerecord'``` (object relational mapping)
   - Rake is like a task manager - "Ruby make"
   - ```bundle exec``` runs the command (e.g. ```rspec```) in the context of this bundle, i.e. uses the right version of the gem
+- Extract tests into ```context``` and multiple ```describe```s rather than multiple ```expect```s in one block
+- How to test for ```timestamp``` in feature tests?
+- How to use ORM?
+- Look over the bookmark-manager challenge final steps, to update knowledge (authentication etc.)
+- Fix apostrophes in peep issue: best way is to user ORM. Other options: using ```gsub``` and double up the quotes to escape it, i.e ' -> '' or " -> ""
   
 ------------------  
 ------------------  
