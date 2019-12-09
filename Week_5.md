@@ -67,8 +67,7 @@
 | | ```typeof 3``` returns 'number' |
 | string interpolation ```"Hello, #{person}"``` | ``` `Hello, ${person}` ``` Note: have to use backs ticks |
 | constants ```MY_TOTAL = 10``` | there are no constants, they can be changed ```Poker.prototype.MY_TOTAL = 10;```, ES6: ```const MY_TOTAL = 10;```|
-| scope of variables |  |
-
+| scope of variables | If you leave the ```var``` keyword off, you won't get an error... but your variable will be created *in the global scope*, not in the scope you defined it in. |
 
 ----------
 
