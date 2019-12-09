@@ -25,7 +25,45 @@
 - Research JSON (JavaScript Object Notation): encoding a hash/array etc into a string, that can be sent over http request and decoded at the other end.
 - Rewrite fizz buzz in JavaScript  
 
-### Reflections
+### Practical: [Learning a new language by translation](https://hackmd.io/kMNgXiPHQf2Q_P9A-tnS9A)  
+| Ruby terms | JavaScript equivalent |
+| ----- | ---- |
+| classes ```class Object``` | prototype ```function Cat(name, age) {};``` |
+| variables ```hat = []``` | ```var hat = []```|
+| arrays ```[2, 3, 'Four']``` | ```var arr = []``` |
+| hashes ```{key: topping, value: pineapple}``` | ```{}``` |
+| add new key & value to hash ```hash[:topping] = "pineapple"```  | ```hash.topping = "pineapple"``` |
+| addition ```2+2``` | same |
+| subtraction ```2-1``` | same |
+| multiplication ```2*2``` | same |
+| modulus ```2%4``` | same |
+| iteration ```.map``` ```.each``` | ```[].forEach(function(n){});``` |
+| methods ```def say_hello``` | function ```function hello() { };```|
+| print ```puts``` ```print``` ```p``` | ```console.log();``` |
+| attr_reader ```attr_reader :id``` |  |
+| initialize ``` def initialize(id:)```| |
+| instance variables ```@id``` | ```this.name = name;```  |
+| method within class ```def hello ... end ``` | ```this.meow = function() { };```|
+| ```self``` | ```this``` |
+| create instance of class ```Cat.new("Tibs")``` | ```new Cat("Tibs")``` |
+| conditionals ```if ... else ... end``` ```unless```| ```if (condition) {} else if (condition2) {} else {};```|
+| comparitors ```==``` ```>``` ```<=```| same, except with addition of ```===``` |
+| booleans ```true``` ```false``` | |
+| negation ```!``` | same |
+| and / or ```&&``` ```||``` | same |
+| conversions ```to_s``` ```to_i``` ```to_sym``` | |
+| ```return``` | |
+| raise error ```raise``` ```fail``` | ```throw``` |
+| switches ```case ... when ... end``` | ```switch(expression) { case x: ... break; case y: ... break; default: ... }``` |
+| scope of variables |  |
+| falsey values | [Source:](https://flatironschool.com/blog/javascript-vs-ruby) "Like in Ruby, null (in Ruby, it’s nil) and false will return false, however, some truthful values in Ruby will return false in JavaScript, like 0, empty strings (“”), and undefined." |
+| one liner assignment | ```var person = "John Doe", carName = "Volvo", price = 200;```|
+| increment ```+=``` | ```++``` |
+| decrement ```-=``` | ```--``` |
+| to the power of ```**``` | same |
+
+
+
 
 ----------
 
