@@ -30,6 +30,7 @@
 | ----- | ---- |
 | classes ```class Object``` | prototype ```function Cat(name, age) {};``` |
 | variables ```hat = []``` | ```var hat = []```|
+| variable naming in snake case ```my_hats``` | camel case ```var myHats``` |
 | arrays ```[2, 3, 'Four']``` | ```var arr = []``` |
 | hashes ```{key: topping, value: pineapple}``` | ```{}``` |
 | add new key & value to hash ```hash[:topping] = "pineapple"```  | ```hash.topping = "pineapple"``` |
@@ -39,6 +40,9 @@
 | modulus ```2%4``` | same |
 | iteration ```.map``` ```.each``` | ```[].forEach(function(n){});``` |
 | methods ```def say_hello``` | function ```function hello() { };```|
+| method naming ```def increase_temperature``` | ```Thermostat.prototype.increaseTemperature = function() { };``` |
+| method naming with ? ```def purebreed?``` | ```isPurebreed``` |
+| private methods in class ```private``` | ```Banana.prototype._myPrivateMethod``` |
 | print ```puts``` ```print``` ```p``` | ```console.log();``` |
 | attr_reader ```attr_reader :id``` |  |
 | initialize ``` def initialize(id:)```| |
@@ -64,7 +68,8 @@
 | decrement ```-=``` | ```--``` |
 | to the power of ```**``` | same |
 | | ```typeof 3``` returns 'number' |
-| string interpolation ```"Hello, #{person}"``` | ``` `Hello, ${person}` ``` Note: have to use backs ticks (`)|
+| string interpolation ```"Hello, #{person}"``` | ``` `Hello, ${person}` ``` Note: have to use backs ticks |
+| constants ```MY_TOTAL = 10``` | there are no constants, they can be changed ```Poker.prototype.MY_TOTAL = 10;```, ES6: ```const MY_TOTAL = 10;```|
 
 
 ----------
