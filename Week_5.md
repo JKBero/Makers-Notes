@@ -44,9 +44,7 @@
 | method naming with ? ```def purebreed?``` | ```isPurebreed``` |
 | private methods in class ```private``` | ```Banana.prototype._myPrivateMethod``` |
 | print ```puts``` ```print``` ```p``` | ```console.log();``` |
-| attr_reader ```attr_reader :id``` |  |
-| initialize ``` def initialize(id:)```| |
-| instance variables ```@id``` | ```this.name = name;```  |
+| instance variables ```@id``` / attr_reader ```attr_reader :id``` / initialize ``` def initialize(id:)```  | ```this.id = id;```  |
 | method within class ```def hello ... end ``` | ```this.meow = function() { };```|
 | ```self``` | ```this``` |
 | create instance of class ```Cat.new("Tibs")``` | ```new Cat("Tibs")``` |
@@ -54,7 +52,7 @@
 | comparitors ```==``` ```>``` ```<=```| ```==``` compares any types, so ```1 == '1'``` is true, ```===``` doesn't compare different types, so ```1 === '1'``` is false |
 | booleans ```true``` ```false``` | Examples of expressions that can be converted to false are: ```null;``` ```NaN;``` ```0``` empty string (```""``` or ```''```) |
 | negation ```!``` | same |
-| and / or ```&&``` | same |
+| and / or ```&&``` / ``` \|\|``` | same |
 | converst to string ```to_s``` | ```toString()```|
 | convert to string to integer ```to_i```| ```parseInt(string, 10)```  where 10 is the base number i.e. radix |
 | convert to symbol ```to_sym``` | ```Symbol()``` |
