@@ -51,7 +51,7 @@
 | booleans ```true``` ```false``` | |
 | negation ```!``` | same |
 | and / or ```&&``` ```||``` | same |
-| conversions ```to_s``` ```to_i``` ```to_sym``` | |
+| conversions ```to_s``` ```to_i``` ```to_sym``` | Examples of expressions that can be converted to false are: ```null;``` ```NaN;``` ```0``` empty string (```""``` or ```''```) |
 | ```return``` | |
 | raise error ```raise``` ```fail``` | ```throw``` |
 | switches ```case ... when ... end``` | ```switch(expression) { case x: ... break; case y: ... break; default: ... }``` |
