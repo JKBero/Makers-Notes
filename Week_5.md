@@ -64,6 +64,7 @@
 | decrement ```-=``` | ```--``` |
 | to the power of ```**``` | same |
 | | ```typeof 3``` returns 'number' |
+| string interpolation ```"Hello, #{person}"``` | ``` `Hello, ${person}` ``` Note: have to use backs ticks (`)|
 
 
 ----------
