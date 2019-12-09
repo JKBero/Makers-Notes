@@ -61,8 +61,8 @@
 | switches ```case ... when ... end``` | ```switch(expression) { case x: ... break; case y: ... break; default: ... }``` |
 | falsey values | [Source:](https://flatironschool.com/blog/javascript-vs-ruby) "Like in Ruby, null (in Ruby, it’s nil) and false will return false, however, some truthful values in Ruby will return false in JavaScript, like 0, empty strings (“”), and undefined." |
 | one liner assignment | ```var person = "John Doe", carName = "Volvo", price = 200;```|
-| increment ```+=``` | ```++``` |
-| decrement ```-=``` | ```--``` |
+| increment ```+= 1``` | ```++``` |
+| decrement ```-= 1``` | ```--``` |
 | to the power of ```**``` | same |
 | | ```typeof 3``` returns 'number' |
 | string interpolation ```"Hello, #{person}"``` | ``` `Hello, ${person}` ``` Note: have to use backs ticks |
