@@ -154,6 +154,13 @@ Write a test for a Bookmark.create method that takes properties as arguments, an
 
 ### Goal Setting 
 - Work on the above learning objectives
+
+### Code review
+- To make Travis tests work, set up database environment:
+  - Add to travis.yml file: ```bundle exec rake db:migrate RACK_ENV=test```
+  - Add to Gemfile ```gem 'activerecord'``` (object relational mapping)
+  - Rake is like a task manager - "Ruby make"
+  - ```bundle exec``` runs the command (e.g. ```rspec```) in the context of this bundle, i.e. uses the right version of the gem
   
 ------------------  
 ------------------  
