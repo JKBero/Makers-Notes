@@ -51,8 +51,10 @@
 | booleans ```true``` ```false``` | Examples of expressions that can be converted to false are: ```null;``` ```NaN;``` ```0``` empty string (```""``` or ```''```) |
 | negation ```!``` | same |
 | and / or ```&&``` | same |
-| conversions ```to_s``` ```to_i``` ```to_sym``` |  |
-| ```return``` | |
+| converst to string ```to_s``` | ```toString()```|
+| convert to string to integer ```to_i```| ```parseInt(string, 10)```  where 10 is the base number i.e. radix |
+| convert to symbol ```to_sym``` | ```Symbol()``` |
+| ```return``` | same |
 | raise error ```raise``` ```fail``` | ```throw``` |
 | switches ```case ... when ... end``` | ```switch(expression) { case x: ... break; case y: ... break; default: ... }``` |
 | scope of variables |  |
