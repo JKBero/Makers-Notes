@@ -62,6 +62,7 @@
   
 | Knowledge gap | Resources read | Practicals/projects | Other | Understanding :vertical_traffic_light: |
 | --- | --- | --- | --- | --- |
+| ORM | | | | :closed_book: |
 | | | | | :green_book: |
 | | | | | :orange_book: |
 | | | | | :closed_book: |
