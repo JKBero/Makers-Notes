@@ -106,7 +106,7 @@ __Designing a piggy bank:__
   
 - Write a feature test:  
 
-  ```
+  ```ruby
   piggy_bank = PiggyBank.new   # =>NameError (unitialized constant PiggyBank)
   piggy_bank.store(1)   #maybe store needs to return a clink sound to confirm that the coin landed
   => 'clink'
@@ -123,7 +123,7 @@ __Designing a piggy bank:__
 - Create directory; create lib; create spec; create piggy_bank_spec.rb within spec
 - Write rspec test  
 
-```
+```ruby
 describe PiggyBank do
   describe "#store" do
     it "should return 'clink' when I store 1 pound" do
@@ -150,7 +150,7 @@ end
 
  - Make it pass (red-green-refactor)  
  
- ```
+ ```ruby
  class PiggyBank
    def store(amount)
      "clink" if amount > 0
@@ -169,7 +169,7 @@ end
       
   - Feature test  
   
-  ```
+  ```ruby
   piggy_bank = PiggyBank.new
   piggy_bank.destroy
   => 0
@@ -183,7 +183,7 @@ end
   
   - Unit test
   
-  ```
+  ```ruby
   describe "#destroy" do
     it "should return 1 when I had stored 1 pound in it"
       piggy_bank = PiggyBank.new   #arrange
@@ -195,7 +195,7 @@ end
   
   - Pass test   
   
-  ```
+  ```ruby
   def destroy
   end
   ```
@@ -302,7 +302,7 @@ Model = a visual representation
 
 A user visits https://makers-cats.herokuapp.com/ in their browser and is shown this HTML:
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -324,7 +324,7 @@ What if the user mistyped this url? Try to include more details into your model.
 
 A user clicks the a cat pic link and is shown this HTML:
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -343,7 +343,7 @@ Don't forget to model the cat.jpg request and response.
 
 A user clicks the list link and is shown this HTML:
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
@@ -363,7 +363,7 @@ The user fills in their email address and clicks the submit button.
 
 The user is sent to the thanks.html page and is shown this HTML:
 
-```
+```html
 <!DOCTYPE html>
 <html>
   <head>
