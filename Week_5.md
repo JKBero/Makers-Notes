@@ -110,10 +110,10 @@
   - Makers course
   - voluntary work
   - key education & work experience
- - Recommendations:
+- Recommendations:
   - use cohort connections etc.
- - Use posts strategically / be interactive / connect -> blogs, online profile etc.
- - Etiquette with reaching out to contacts
+- Use posts strategically / be interactive / connect -> blogs, online profile etc.
+- Etiquette with reaching out to contacts
   - See if a Maker works there and reach out
   - Keep it casual; helps if you have already met briefly etc.
   - When starting out, look for jobs with companies who are already warm to Makers and are familiar with bootcamps.
