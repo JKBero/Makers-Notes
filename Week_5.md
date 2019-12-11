@@ -77,14 +77,14 @@
 ## Day 2
 
 ### Goal Setting
-
+- Continue from Day 1's goals
 
 ----------
 
 ## Day 3
 
 ### Goal Setting
-- 
+- Attend all workshops
 
 ### Q&A session  
 
