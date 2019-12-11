@@ -85,6 +85,7 @@
 
 ### Goal Setting
 - Attend all workshops
+- Research Tech for Good industry
 
 ### Q&A session  
 
