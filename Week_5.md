@@ -79,8 +79,6 @@
 ### Goal Setting
 
 
-### Reflections
-
 ----------
 
 ## Day 3
@@ -88,7 +86,39 @@
 ### Goal Setting
 - 
 
-### Reflections
+### Q&A session  
+
+- EcmaScript (e.g. ES6) -> formalising of different JavaScript versions  
+- Prototypes / constructor() -> ways to deal with inheritence in JS  
+- ```this```
+  - inheritance of scope (similar to binding in Ruby). Ruby blocks are closures, JS {} are closures.
+  - JS object is similar to a Ruby hash. ```this.name = name``` creates a key with an attached value.
+  - Ruby object is a reference to a class and instance variables  
+- JS has local and global variables -> read about variable scope and closures
+- To require different JS files -> pull them all into a central html file with ```<script> </script>```
+- NodeJS runs on the server (to be covered down the line)
+
+### LinkedIn workshop
+- Make yourself searchable/findable by putting keywords in (for visitors and recruiters)
+- State any languages you know / are learning
+- Add GitHub CV / one-page CV
+- Profile:
+  - Software Developer/Engineer (don't use junior until that's your actual role title); you can be more specific if that's what you are aiming for, i.e. Phython Software Developer
+  - relevant "key" keywords
+  - Check out other people's profiles
+- Education & Experience:
+  - Makers course
+  - voluntary work
+  - key education & work experience
+ - Recommendations:
+  - use cohort connections etc.
+ - Use posts strategically / be interactive / connect -> blogs, online profile etc.
+ - Etiquette with reaching out to contacts
+  - See if a Maker works there and reach out
+  - Keep it casual; helps if you have already met briefly etc.
+  - When starting out, look for jobs with companies who are already warm to Makers and are familiar with bootcamps.
+  - Positivity is the best way to reach out; e.g. you heard them do a talk, do reach out and feedback on that. Later, if they're hiring, you have a connection.
+  - Be respectful and conscious that people and hirers can be time poor.
 
 -----------
 
