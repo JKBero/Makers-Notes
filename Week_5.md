@@ -126,7 +126,9 @@
 ## Day 4
 
 ### Goal Setting
-- 
+- Learn to set up jquery in javascript project
+- Play around with jquery
+- Attend javascript debugging workshop
 
 -----------  
 
@@ -151,5 +153,5 @@
 | --- | --- | --- | --- | --- |
 | ORM | | | | :closed_book: |
 | AJAX | | | | :closed_book: |
-| | | | | |
+| jQuery set-up | https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery | | Help from Ellie | :green_book: |
 | | | | | |
