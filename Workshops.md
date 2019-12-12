@@ -404,7 +404,7 @@ Cognitive - consciously imagining how someone is feeling wihout internalising it
 
 **Training:**
 1. "Just like me" - apart of a similar tribe / the commonalities
-2. Metta Bhavana - loving kindness meditation; rewiring the brain for empathy (sounds similar to impacts of prayer - research)
+2. Metta Bhavana - loving kindness meditation; rewiring the brain for empathy
 3. Empathetic Active Listening
     1. Reflect back
     2. Ask questions instead of give answers - "don't try to be interesting, try to be interested"
