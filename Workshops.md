@@ -516,3 +516,7 @@ function sayHi() {
 sayHi()
 ```  
 - arity = number of arguments that a method takes.
+
+#### Resources  
+[Debugging pill](https://github.com/makersacademy/course/blob/master/pills/debugging.md)
+[The ready position](http://sjmog.github.io/posts/491_learning_to_learn_1/)
