@@ -12,6 +12,7 @@
 - [Databases - Domain Modelling using CRC Cards](#databases---domain-modelling-using-crc-cards)  
     - [Entity Relationship Diagrams](#entity-relationship-diagrams)
 - [RESTful Routes](#restful-routes)
+- [Following the flow and getting visibility in JavaScript](#following-the-flow-and-getting-visibility-in-javascript)
 
 ### "Magic Numbers"
 
@@ -493,4 +494,25 @@ Source (along with useful online practice tool): [Rest](https://github.com/sjmog
 ----------  
 ----------  
 
+## Following the flow and getting visibility in JavaScript  
 
+- console.logging recognisable strings, e.g. within methods to figure out what code is running and in which order.
+- ```console.log(this);```
+- variable: ```console.log(airport);```
+- function return values: ```console.log(airport.land());```
+- function parameters: does this parameter contain what I expect? What does this parameter even contain?
+```javascript
+Airport.prototype.land = function(plane) {
+    console.log(plane);
+};
+```  
+- using a step debugger -> allows you to step through your program line by line. Can use in dev tools or Node. Up to personal preference. 
+```javascript
+function sayHi() {
+    debugger;
+    console.log("hi!");
+};  
+
+sayHi()
+```  
+- arity = number of arguments that a method takes.
