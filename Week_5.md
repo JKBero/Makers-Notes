@@ -153,5 +153,5 @@
 | --- | --- | --- | --- | --- |
 | ORM | | | | :closed_book: |
 | AJAX | | | | :closed_book: |
-| jQuery set-up | https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery | | Help from Ellie | :green_book: |
+| jQuery set-up | https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery | Thermostat | Help from Ellie | :green_book: |
 | | | | | |
