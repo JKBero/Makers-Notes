@@ -15,9 +15,17 @@
 ## Day 1
 
 ### Goal setting
-- 
+- Work as a team to create MVP, user stories, domain models and database structures
 
-### Reflections
+### Tips for MakersBNB
+- use ```git add -p``` to specify what to commit
+- settings in Github -> Branches -> set rules -> e.g. require reviews before merging
+- MVP -> absolute simplest thing possible
+- collaborators should have read and write permissions
+
+### Suggested additional resources
+- butunclebob.com -> bowling game
+- SQL Murder Mystery
 
 ----------
 
