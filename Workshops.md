@@ -527,11 +527,11 @@ sayHi()
 
 ## The JS Event Loop
 
-Research:
-Stack (LIFO last in first out) - add "frames" to call stack. From Message Queue to Call Stack cycle is called a "tick".
-Queue (FIFO first in first out)
-Asynchronous
-Non-blocking
-Multi-threaded
+Research:  
+Stack (LIFO last in first out) - add "frames" to call stack. From Message Queue to Call Stack cycle is called a "tick"  
+Queue (FIFO first in first out)  
+Asynchronous  
+Non-blocking  
+Multi-threaded  
 
 How do you handle several asychronous calls that depend on each other? Can nest in code: nest a ```$.get()``` request within another ```$.get()``` request, but this was callback hell (goes on for ages and is very confusing). But there is a library called Promises which is now incorporated into JS - reads better. (Promise.all with Async/Await)
