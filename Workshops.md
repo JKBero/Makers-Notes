@@ -14,6 +14,7 @@
 - [RESTful Routes](#restful-routes)
 - [Following the flow and getting visibility in JavaScript](#following-the-flow-and-getting-visibility-in-javascript)
 - [The JS Event Loop](#the-js-event-loop)
+- [Tech CV](#tech-cv)
 
 ### "Magic Numbers"
 
@@ -535,3 +536,36 @@ Non-blocking
 Multi-threaded  
 
 How do you handle several asychronous calls that depend on each other? Can nest in code: nest a ```$.get()``` request within another ```$.get()``` request, but this was callback hell (goes on for ages and is very confusing). But there is a library called Promises which is now incorporated into JS - reads better. (Promise.all with Async/Await)
+
+----------
+----------
+
+## Tech CV
+
+Github CV - priority. Employment team use this to put candidates forward   
+PDF/one page CV - needed for roles outside Makers https://enhancv.com/   
+
+Describe who you are. 
+- What is your interest in tech?
+- Don't describe Makers.
+- You can clarify at interview (re if you're junior); don't need it in CV.
+- Why software development? What does this really mean to you?
+- Show your previous background (diverse backgrounds are interesting).
+- Soft skills: time management / team working
+
+Next thing is: Projects (3 to 5)
+- Make them look presentable
+- Keep reviewing projects
+- Pair with people to mock interview questions
+- Keep a reflective on projects where possible esp team projects
+
+Skills section (2 to 5)
+- Choose one that's a little different if possible
+- Core skills relevant to tech
+- Thirst for knowledge is attractive (professional development)
+
+Idea: implementation of new school system - uploaded everything; co-administrator to the system for all staff
+
+Hobbies:
+- keep it interesting
+- also can mention any meetups etc.
