@@ -432,7 +432,7 @@ How do you handle several asychronous calls that depend on each other? Can nest 
 ----------
 
 ## JavaScript Module Pattern
-*Author: [Ellie Manifold](#https://github.com/EManifold)*
+*Author: [Ellie Manifold](https://github.com/EManifold)*
 
 Useful post: https://stackoverflow.com/questions/111102/how-do-javascript-closures-work?rq=1  
 
