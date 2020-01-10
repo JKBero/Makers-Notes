@@ -1,19 +1,23 @@
 # Workshops
 
+Technical:
 - ["Magic Numbers"](#magic-numbers)  
 - [Single Responsibility Principle](#single-responsibility-principle)  
 - [Encapsulation](#encapsulation)  
 - [Polymorphism](#polymorphism)  
 - [Debugging workshop](#debugging-workshop)  
 - [TDD workshop](#tdd-workshop)  
-- [Feedback workshop](#feedback-workshop)  
 - [Process modelling workshop](#process-modelling-workshop)  
-- [Empathy workshop](#empathy-workshop)  
 - [Databases - Domain Modelling using CRC Cards](#databases---domain-modelling-using-crc-cards)  
     - [Entity Relationship Diagrams](#entity-relationship-diagrams)
 - [RESTful Routes](#restful-routes)
 - [Following the flow and getting visibility in JavaScript](#following-the-flow-and-getting-visibility-in-javascript)
 - [The JS Event Loop](#the-js-event-loop)
+- [JavaScript Module Pattern](#javascript-module-pattern)
+
+Other:
+- [Feedback workshop](#feedback-workshop)  
+- [Empathy workshop](#empathy-workshop)  
 - [Tech CV](#tech-cv)
 
 ### "Magic Numbers"
@@ -207,86 +211,6 @@ end
 ----------  
 ----------  
 
-## Feedback workshop  
-
-= Info about something / someone / behaviours, **which is used as a basis for improvement**
-
-#### Why is it difficult?
-**Love & Acceptance VS Learning & Growth**
-
-- Questioning motivation
-- Not all are trained / learnt the skill
-- Not wanting to hurt someone (empathy or perhaps backlash)
-- Fear of not being accepted
-- Hard to receive, as perhaps very self-critical / feel threatening
-- Hard to receive, as perhaps you have ego / pride
-- Fear based behaviours
-
-#### How can we make it easier?
-1. Shift your perspective
-- Do not view it as positive or negative... NEUTRAL (something to help YOU grow)
-- See it as something kind
-2. Empowered receiver
-- Ask for it; be eager and specific; pairing culture / team culture
-- Gatekeeper
-- As a receiver FB helps us understand ourselves, profile, blind-spots #freetherapy
-- Helps us practice assertiveness, boundaries, cultivate authentic and equal relationships
-- Improve work life and overall quality of life
-3. Know thyself
-- 3 feedback triggers:  
-  1. Truth trigger - seems wrong or off target
-  2. Relationship triggers - something about our relationship with the person
-  3. Identity triggers - undermines how we see ourselves ("Google bias")
-4. Wrong-spotting - our default mindset is looking for what is wrong first
-5. We all have blind spots
-
-#### Building resilience
-- What is your happiness set point? http://www.happiness-survey.com/
-- Meditation increases your baseline happiness
-- Swing: How wide do you swing?
-- Recovery / Sustain: How long does it take for you to return to your baseline happiness? (minutes / hours / days...)
-
-#### Understand feedback
-- Appreciation - to acknowledge, connect, motivate, reassure, thank
-- Evaluation - to rate or rank against a set of standards, aling expectation, inform decision-making
-- Coaching - to help receiver expand knowlede, sharpen skill, improve capability
-
-#### Use a framework
-A - actionable (avoid adjectives like "good"/"bad")
-S - specific (avoid stories; use hard facts)
-K - kind (being direct can also be kind)
-
-Communication stances - check your energy first.
-- Doormat - openly agreeable, people-pleasing behaviour
-- Sword - steamrolling, dominating, aggressive - doesn't create safe space for others
-- Lantern - ask questions, drop all assumptions
-
-NVC (Non-Violent Communication)  
-
-| Expression |
-| ---- |
-| Observation: When I see/hear.... |
-| Feeling: I feel... |
-| Need: Because I need... |
-| Request: Would you be willing...? |
-
-- know your feelings
-- know your needs  
-
-- ask permission to give feedback, respect boundaries
-- state the purpose of you FB
-- give specific feedback
-- be direct and respectful
-- read someone's state. 
-
-- Weigh it carefully; you can reject it if it's right to do so
-- Strive for learning in the feedback
-
-**Ultimately, it's all to help you grow and improve**. 
-
---------------
---------------
-
 ## Process modelling workshop
 
 **Applied to HTTP request/response cycle**
@@ -383,39 +307,6 @@ The user is sent to the thanks.html page and is shown this HTML:
 
 ------------
 ------------
-
-## Empathy workshop
-
-- Imperative for teamwork
-- Understanding the frustrations etc. of a customer
-- Being able to use empathy to understand a market and create products to help them / suit their needs
-- Empathy for yourself ("Would you say this to your friends?")
-
-Book: *The 5 Dysfunctions of a Team*
-
-**3 types of empathy:**
-Affective - feeling emotionally with someone else but not driven to help in a certain way
-Empathic concern - Consciously understanding and internalising the emotions of another person - driven to help or respond appropriately
-Cognitive - consciously imagining how someone is feeling wihout internalising it. E.g. negotiations or doctors with patients.
-
-**4 reasons why empathy may be missing:**
-1. Anger - feel numb towards another's pain / we feel contempt due to resentment etc.
-2. Protection - unconsciously feeling as though another's pain is like a "virus"
-3. Identifying - "too close to home"/triggering
-4. Fear of intimacy - being emotionally distant is easier; fear of vulnerability
-
-**Training:**
-1. "Just like me" - apart of a similar tribe / the commonalities
-2. Metta Bhavana - loving kindness meditation; rewiring the brain for empathy
-3. Empathetic Active Listening
-    1. Reflect back
-    2. Ask questions instead of give answers - "don't try to be interesting, try to be interested"
-    3. Validate emotions (even if you disagree with their logic)
-    4. Don't offer unsolicited advice
-    5. Be present - 80/20
-
-----------
-----------
 
 ## Databases - Domain Modelling using CRC Cards  
 
@@ -540,12 +431,175 @@ How do you handle several asychronous calls that depend on each other? Can nest 
 ----------
 ----------
 
+## JavaScript Module Pattern
+*Author: [Ellie Manifold](#https://github.com/EManifold)*
+
+Useful post: https://stackoverflow.com/questions/111102/how-do-javascript-closures-work?rq=1  
+
+### Why use the module pattern?
+
+- Module pattern solves the problem of encapsulation, JavaScript as a language doesn't have proper support for making things private. Using an underscore makes a variable private but is just a naming convention which tells other devs to 'make this thing private', but doesn't actually make it inherently private.
+- Module pattern is good for reusing code. Can write functions once and share them in a few places if the functions are generic enough to use elsewhere.
+- These two above are the most common reasons for using the module pattern in JS.  
+
+### What is a closure?
+
+- Bundling functionality with the scope in which it lives. If we were to define a function in JS, it would have access to all the variables in the scope in which it was created. Bundling the state/environment together.
+- A good use of closures is what makes the module pattern so effective.
+
+```javascript
+let myModule = (function() {
+    function _privateMethod() {
+        return "Hello World!"
+    }
+      
+    function publicMethod() {
+        return _privateMethod()
+    }
+      
+    return {
+        publicMethod: publicMethod
+    }
+})();
+      
+myModule.publicMethod(); // 'Hello World!'
+myModule._privateMethod(); // error
+```
+
+These return values are 'unusual' because the public method works while using the private method, but you can't call the private method itself. This is because of the use of closures. Private method was in the public method's closure.
+
+Use ```(this)``` at the end to pass an argument to the function that you're immediately invoking. ```(this)``` in the console would be the window object. 'this' is the top level scope. Would be more useful to pass in a specific object that you want to create some functionality for.
+
+----------
+----------
+
+## Feedback workshop  
+
+= Info about something / someone / behaviours, **which is used as a basis for improvement**
+
+#### Why is it difficult?
+**Love & Acceptance VS Learning & Growth**
+
+- Questioning motivation
+- Not all are trained / learnt the skill
+- Not wanting to hurt someone (empathy or perhaps backlash)
+- Fear of not being accepted
+- Hard to receive, as perhaps very self-critical / feel threatening
+- Hard to receive, as perhaps you have ego / pride
+- Fear based behaviours
+
+#### How can we make it easier?
+1. Shift your perspective
+- Do not view it as positive or negative... NEUTRAL (something to help YOU grow)
+- See it as something kind
+2. Empowered receiver
+- Ask for it; be eager and specific; pairing culture / team culture
+- Gatekeeper
+- As a receiver FB helps us understand ourselves, profile, blind-spots #freetherapy
+- Helps us practice assertiveness, boundaries, cultivate authentic and equal relationships
+- Improve work life and overall quality of life
+3. Know thyself
+- 3 feedback triggers:  
+  1. Truth trigger - seems wrong or off target
+  2. Relationship triggers - something about our relationship with the person
+  3. Identity triggers - undermines how we see ourselves ("Google bias")
+4. Wrong-spotting - our default mindset is looking for what is wrong first
+5. We all have blind spots
+
+#### Building resilience
+- What is your happiness set point? http://www.happiness-survey.com/
+- Meditation increases your baseline happiness
+- Swing: How wide do you swing?
+- Recovery / Sustain: How long does it take for you to return to your baseline happiness? (minutes / hours / days...)
+
+#### Understand feedback
+- Appreciation - to acknowledge, connect, motivate, reassure, thank
+- Evaluation - to rate or rank against a set of standards, aling expectation, inform decision-making
+- Coaching - to help receiver expand knowlede, sharpen skill, improve capability
+
+#### Use a framework
+A - actionable (avoid adjectives like "good"/"bad")
+S - specific (avoid stories; use hard facts)
+K - kind (being direct can also be kind)
+
+Communication stances - check your energy first.
+- Doormat - openly agreeable, people-pleasing behaviour
+- Sword - steamrolling, dominating, aggressive - doesn't create safe space for others
+- Lantern - ask questions, drop all assumptions
+
+NVC (Non-Violent Communication)  
+
+| Expression |
+| ---- |
+| Observation: When I see/hear.... |
+| Feeling: I feel... |
+| Need: Because I need... |
+| Request: Would you be willing...? |
+
+- know your feelings
+- know your needs  
+
+- ask permission to give feedback, respect boundaries
+- state the purpose of you FB
+- give specific feedback
+- be direct and respectful
+- read someone's state. 
+
+- Weigh it carefully; you can reject it if it's right to do so
+- Strive for learning in the feedback
+
+**Ultimately, it's all to help you grow and improve**. 
+
+----------
+----------
+
+## Empathy workshop
+
+- Imperative for teamwork
+- Understanding the frustrations etc. of a customer
+- Being able to use empathy to understand a market and create products to help them / suit their needs
+- Empathy for yourself ("Would you say this to your friends?")
+
+Book: *The 5 Dysfunctions of a Team*
+
+**3 types of empathy:**
+Affective - feeling emotionally with someone else but not driven to help in a certain way
+Empathic concern - Consciously understanding and internalising the emotions of another person - driven to help or respond appropriately
+Cognitive - consciously imagining how someone is feeling wihout internalising it. E.g. negotiations or doctors with patients.
+
+**4 reasons why empathy may be missing:**
+1. Anger - feel numb towards another's pain / we feel contempt due to resentment etc.
+2. Protection - unconsciously feeling as though another's pain is like a "virus"
+3. Identifying - "too close to home"/triggering
+4. Fear of intimacy - being emotionally distant is easier; fear of vulnerability
+
+**Training:**
+1. "Just like me" - apart of a similar tribe / the commonalities
+2. Metta Bhavana - loving kindness meditation; rewiring the brain for empathy
+3. Empathetic Active Listening
+    1. Reflect back
+    2. Ask questions instead of give answers - "don't try to be interesting, try to be interested"
+    3. Validate emotions (even if you disagree with their logic)
+    4. Don't offer unsolicited advice
+    5. Be present - 80/20
+
+--------------
+--------------
+
 ## Tech CV
+
+Slides: http://bit.ly/2s5Xmkl   
+Article: https://blog.makersacademy.com/how-i-evaluate-developers-for-my-team-789276000cab   
+Meetups: https://github.com/makersacademy/jobhunters/tree/master/pills/community   
+Meetups: https://www.meetup.com/  
+Hackathons: https://www.hackathon.com/city/united-kingdom/london - even volunteer at one!  
+Ask coaches for tech books you could be reading   
+**Have strong understanding of the fundamentals of OO etc. Very important**
 
 Github CV - priority. Employment team use this to put candidates forward   
 PDF/one page CV - needed for roles outside Makers https://enhancv.com/   
 
-Describe who you are. 
+Describe who you are: 
 - What is your interest in tech?
 - Don't describe Makers.
 - You can clarify at interview (re if you're junior); don't need it in CV.
