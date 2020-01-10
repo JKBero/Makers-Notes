@@ -26,7 +26,7 @@ Goals:
 - Attend talk on Ag Tech
 - Create JS front-end note web app
 
-See [workshops](https://github.com/JKBero/Makers-Notes/Workshops.md) for full workshop notes.  
+See [workshops](https://github.com/JKBero/Makers-Notes/blob/master/Workshops.md) for full workshop notes.  
 Ag Tech notes on mobile.  
 Personal CV notes on mobile.  
 
