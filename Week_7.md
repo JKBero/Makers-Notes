@@ -55,3 +55,4 @@ Personal CV notes on mobile.
 | Diagramming the note app | | | | :closed_book: |
 | Frontend templating | | | | :closed_book: |
 | Frontend routing | | | | :closed_book: |
+| Implementing callbacks | | | | :closed_book: |
