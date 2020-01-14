@@ -20,9 +20,12 @@ Folder examples
 - A unit test should have ideally one expectation
 - A feature test, is more accepted to have several expectations
 
-### Other tips
+### Other tips for early on
+- Play around generating new rails items early on, to figure out what is being changed / created in the folder structure
 - A new controller is needed when a new database is introduced
 - Decorators (similar to helpers) are useful when drying up your views
+- Focus on feature tests
+- Think about flow from a user's perspective
 
 ------------------  
   
