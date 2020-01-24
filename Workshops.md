@@ -619,8 +619,6 @@ Skills section (2 to 5)
 - Core skills relevant to tech
 - Thirst for knowledge is attractive (professional development)
 
-Idea: implementation of new school system - uploaded everything; co-administrator to the system for all staff
-
 Hobbies:
 - keep it interesting
 - also can mention any meetups etc.
@@ -630,97 +628,62 @@ Hobbies:
 
 ## Job hunting
 
-### Q&A
-Should you tailor your cv?  
+### Applying outside of Makers
 
-Are cover letters asked for?  
+Github green squares vs performance in the room
+- need green squares to show that you're actively working on projects
+- performance in interview also very important
 
-How to define a process for job hunting?  
-
-How long should you spend on applications?  
-
-What rate are you looking at?  
-
-Apply direct or through recruitment agencies?  
-
-Github vs performance in the room
-- need green squares to show that your working on projects
-- performance in interview etc also very important
-
-
-Why is this important?
+Job boards
 - Easily accessible
-- market research - what's out there; comparing salaries; job titles; job description
+- Market research: what's out there; comparing salaries; job titles; job description
+- Careful of 'fake' jobs / recruiters trying to get you on their books. Agencies are sometimes a timewaste.
+- Call the company with any questions; find HR/internal recruiter on LinkedIn
 
-How would you use it?
-- google what the best boards are for tech
-- optimise search (title, companies (big, small), salary)
-- Whittle it down
+**Good for tech**
+- Linkedin jobs
+- Otta.com for entry level only
+- Stack overflow (more mid to senior roles)
+- Hired.co.uk (only sign up once graduated) - talk to coach first
+- Unicorn hub for start ups
 
-Challenges?
-- Can feel overwhelming, with so many out there
-- how long has it been there- has it not been updated? Who has really posted it - fishing line for recruitment?
-- Can feel not good enough for it
-- No sounding board to guide you; very indepent
-- Time consuming, 
-
-Solutions
-- Use the search bars; find a starting point
-- Call the company - often have a HR department
-- Get advise from coaches; doing reviews will give you a confidence boost; gauge from salary
-- Get a sounding board; coach; peers; or who knows industry.
-
-Good for tech:
-Linkedin jobs
-Stack overflow (mid to senior more roles)
-Hired.co.uk (only sign up once graduated) - talk to coach first
-Unicorn hub for start ups
-Otta.com for entry level only
-
-Recruiters especially Agencies - careful with these, is often a timewaste. And because some post jobs that don't exist.
-Go into LinkedIn and find internal recruiter to speak to.
-
-Networking:
-- Some places are too big to use junior devs right now, but maybe after a year
+Networking
+- Some companies are too big to use junior devs right now, but maybe after a year
 - Don't be shy to reach out to people you don't know; maybe a coffee
-- Utilise meetups too.
+- Utilise meetups
 
-LinkedIn:
-- Can apply directly via the site, if you want. Some may see that as a bit lazy; need to make an argument as to why you are applying.
-- Can do a quick apply and then write separate message to someone in the company.
+LinkedIn
+- Can apply directly via the site, if you want. Could be seen as lazy; need to make an argument as to why you are applying. Can do a quick apply and then write separate message to someone in the company.
 - Joining groups and follow companies; use it.
 - Based on interests you tag; they can put you in touch with people who are willing to talk to you. Post stuff!
-- Check out Puyan Wei's LinkedIn - built an app and then blogged about it and sent that to the people in company. Got the job after interview.
-- Create profile, tag yoru interests, key words for job search, search current and past employees and don't be afraid to reach out. Guage the culture of the company.
-- Reach out to the recruiter of that company and write to them.What do you look for in a junior dev? what is your tech stack? How could I contribute?
-- people not answering back. Can feel disheartening.
-- Lots of jobs not advertised there, so reach out instead.
+- Be strategic. Check out Puyan Wei's LinkedIn - built an app in their tech stack, blogged about it and sent that to the company. Got the job after interview.
+- Create profile, tag your interests, key words for job search, search current and past employees and don't be afraid to reach out. Gauge the culture of the company.
+- Reach out to the recruiter of that company and write to them. What do you look for in a junior dev? What is your tech stack? How could I contribute?
+- Many jobs are not advertised there, so reach out instead.
 - Posts public events that you can attend.
 - Link any hackathons, meetups, etc.
-- More searchable for 250+ and 500+
-- Reach out to Makers with "Hey, excited to be in the same community"
+- More searchable for 250+ and 500+ contacts
+- Reach out to Makers with "Hey, excited to be in the same community..." etc.
 
-Cover letters:
+Cover letters
 - Shows your research on the company. How you would fit with them. Show examples of your skills. Talk in language they write in.
 - Tech CV should only be 1-page.
 - Don't be repetitive of the CV.
 - Do write a cover letter, even if they don't want it.
-- how long? Half page to 3 quarters page. I like your company focused, and because I do that too (CV is about skills listing_)
+- Length: three quarters to half a page only.
 
-Job tracking:
+Job tracking
 - Helps you write goals etc.
 - Keep positive perspective; remain objective
 - Do some mock interviews; build up log of feedback
 - Ask for feedback when you interview
-- Hard to persuade for "comp degree and 2 yr experience" jobs. More companies are understanding bootcamps now. Or pick up phone to talk to recruiter, and ask if being a bootcamp grad is a barrier.
+- Hard to persuade for "comp degree and 2 yr experience" jobs. More companies are understanding bootcamps now. Or pick up phone to talk to recruiter and ask if being a bootcamp grad is a barrier.
 
-Need to be doing at least 2 hours coding every day. Also helps with mental health etc.
+**Need to be doing at least 2 hours coding every day. Also helps with mental health.**
 
-Book recommendation:
-It’s really great for looking at popular algorithms like Binary Search and Big O notation in a simple and easy to understand way :slightly_smiling_face:
-“Algorithms are nothing more than step-by-step procedures for solving problems and most algorithms used by programmers have already been discovered, tested, and proven.”
-https://amzn.to/2uqrmIy
+**Book recommendation:**
+https://amzn.to/2uqrmIy - Great for looking at popular algorithms like Binary Search and Big O notation in a simple and easy to understand way.
 
-Look at for future events:
+**Look at for future events on:**
 https://www.meetup.com/Find-A-tech-Job-In-London/events/268108037/
 
