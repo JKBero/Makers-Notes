@@ -1,7 +1,14 @@
-# Week 8 & 9
- 
-**Week's goals:**
+# Week 8 & 9 
 
+For full deets on our Rails team project _Spacebook_:  
+README - https://github.com/ajbacon/acebook-true-GrIT   
+
+Our team blog & notes:   
+https://medium.com/true-grit   
+https://docs.google.com/spreadsheets/d/1ZYsR42Sf9hTqnrRGIXF9TDgO5Gt6-Rd4UguIlyspiQ8/edit#gid=0   
+
+Very helpful resource:   
+[Semantic commit messages](https://seesparkbox.com/foundry/semantic_commit_messages)   
 
 ------------------
 
