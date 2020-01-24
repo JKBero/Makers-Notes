@@ -8,7 +8,21 @@ https://medium.com/true-grit
 https://docs.google.com/spreadsheets/d/1ZYsR42Sf9hTqnrRGIXF9TDgO5Gt6-Rd4UguIlyspiQ8/edit#gid=0   
 
 Very helpful resource:   
-[Semantic commit messages](https://seesparkbox.com/foundry/semantic_commit_messages)   
+[Semantic commit messages](https://seesparkbox.com/foundry/semantic_commit_messages) 
+
+------------------
+
+## Weekend goals
+
+- Record 2 process workshops; sit down with coach next week
+- Update Spacebook README with video
+- Write a blog entry for True GrIT's Medium
+
+Advise for review:
+- ask the client lots of clarifying questions
+- write inputs and outputs
+- install git
+- practice on process workshops: casheer & roman numerals
 
 ------------------
 
