@@ -5,6 +5,8 @@
 
 **Meetups**   
 
+------------------
+
 ## WDD Conference 2020
 
 ### Panelist: A Different Story   
@@ -53,6 +55,12 @@ Rahma Javed - Director of Engineering @ Deliveroo
 - Gender gap in leadership - you are playing the game with rules you never got to set
 - Have the backing of your leadership behind you
 
+### From bin-diving to /bin hacking
+Celine Pypaert - Systems Engineer Intern @ VMware  
+
+<img src="https://user-images.githubusercontent.com/49643736/73126148-1dc8ab00-3fa7-11ea-9bb5-add92989f5f1.jpg" alt="First list of resources" width="500" /><img src="https://user-images.githubusercontent.com/49643736/73126151-2de08a80-3fa7-11ea-97d5-4443586e192b.jpg" alt="Third list of resources" width="350" />
+<img src="https://user-images.githubusercontent.com/49643736/73126149-26b97c80-3fa7-11ea-954c-f4739a4b0af0.jpg" alt="Second list of resources" width="500" />
+
 ### Keep calm and fasten your seatbelt (web app security)
 Sonya Moisset - Lead Security Engineer @ Photobox Group Security | Tech Lead/DevSecOps @ Pride in London  
 
@@ -86,7 +94,10 @@ Resources:
 Rebecca Pope, Ph.D - Director - Data Science & Engineering @ KPMG UK   
 
 - Interesting article: Google DeepMind in Healthcare   
-- Good languages for data science: Python & Spark   
+- Good languages for data science: Python & Spark 
+
+<img src="https://user-images.githubusercontent.com/49643736/73126350-7c8f2400-3fa9-11ea-920e-4a8b7f82849b.jpg" alt="Slide 1" width="400" /><img src="https://user-images.githubusercontent.com/49643736/73126349-7c8f2400-3fa9-11ea-8d3f-a6cdb238ba8e.jpg" alt="Slide 2" width="400" />  
+<img src="https://user-images.githubusercontent.com/49643736/73126348-7c8f2400-3fa9-11ea-915e-5b6f156d3dfd.jpg" alt="Lessons learned" width="400" />
 
 ### Anything but FLUFFY – why human skills are crucial in Tech
 Natasha Sayce-Zelem - Head of Technology @ Sky   
@@ -96,6 +107,10 @@ Natasha Sayce-Zelem - Head of Technology @ Sky
 - Article re psychological safety in teams and more: [The five keys to a successful Google team](https://rework.withgoogle.com/print/guides/5721312655835136/)
 - [*Quiet* by Susan Cain](https://www.amazon.co.uk/Quiet-Power-Introverts-World-Talking/dp/0141029196/ref=asc_df_0141029196/?tag=googshopuk-21&linkCode=df0&hvadid=310973726618&hvpos=1o2&hvnetw=g&hvrand=17791166392954937413&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1006886&hvtargid=pla-448425243075&psc=1&th=1&psc=1): The Power of Introverts in a World That Can't Stop Talking
 - Have a "I win or I learn" mentality
+- "You are hiring talented people, not a job description. Your job description is not going to do any work. Do not define people for great jobs. Look at defining jobs for great people."
+
+<img src="https://user-images.githubusercontent.com/49643736/73126079-28367500-3fa6-11ea-9794-f9428ded7df3.jpg" alt="'Soft' skills" width="400" /><img src="https://user-images.githubusercontent.com/49643736/73126093-73e91e80-3fa6-11ea-9ad5-2c3b72c3d23f.jpg" alt="People leave bad managers not companies" width="400" />  
+<img src="https://user-images.githubusercontent.com/49643736/73126088-587e1380-3fa6-11ea-8f24-ae1904f732ea.jpg" alt="Psychological danger vs safety" width="600" />
 
 ### Accessibility is a dirty word
 Chimmy Kalu - Senior product designer @ WorldRemit   
@@ -107,9 +122,14 @@ Chimmy Kalu - Senior product designer @ WorldRemit
 - Build inclusive design into your processes
 - Rinse and repeat
 
+<img src="https://user-images.githubusercontent.com/49643736/73126110-a8f57100-3fa6-11ea-8769-8018349262d9.jpg" alt="Aspects of inclusive design" width="400" />
+
 ### Scroll up! Scroll up! Adventures in accessible storytelling
 Becky Rush - Software Engineer @ BBC Visual Journalism
 
 - Create a no mouse experience (keyboard only)
 - Some interactives can make people feel ill (dizzy etc.)
 - Animation on/off switch can be implemented
+
+---------------------   
+
