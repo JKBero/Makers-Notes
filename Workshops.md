@@ -679,6 +679,23 @@ Job tracking
 - Ask for feedback when you interview
 - Hard to persuade for "comp degree and 2 yr experience" jobs. More companies are understanding bootcamps now. Or pick up phone to talk to recruiter and ask if being a bootcamp grad is a barrier.
 
+### Applying with Makers' hiring partners
+
+Careers Fair, Wed 19th Feb, 2.30-5.30.  
+Between Week 2 & 3 is best time for long weekend.  
+
+Government jobs, e.g. Ministry of Justice - great work with Ruby.  
+Jigsaw & Deloitte are insteresting consultancies.   
+
+Tips:  
+- Don't work remotely for first 3 years.
+- Work somewhere with Agile methodologies and good communication.
+- Don't be afraid to try different places, e.g. consultancy vs start-ups to see where you prefer.
+- Cautious of the language you are applying for - is it something you want to learn?
+- Know the basics e.g comp science 101 and popular algorithms.
+- Revisit all fundamentals of course; be able to articulate them.
+- Reflections and tracked learning are especially important for final project.
+
 **Need to be doing at least 2 hours coding every day. Also helps with mental health.**
 
 **Book recommendation:**
