@@ -31,3 +31,8 @@ The careers team of Makers is amazing, so don't worry at all. It can be a bit ov
 they can book many interviews in the same week, so if you feel too much pressure let them know and 
 focus on the jobs that you like the most!   
 
+* Daniel A:*  
+
+I'm only a couple of weeks into my first role, but I've found there isn't an overbearing expectation on me. 
+I'm having to pick up a new framework (Angular) so have spent all my time so far working through tutorials 
+and building small projects.   
