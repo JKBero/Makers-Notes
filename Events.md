@@ -131,5 +131,8 @@ Becky Rush - Software Engineer @ BBC Visual Journalism
 - Some interactives can make people feel ill (dizzy etc.)
 - Animation on/off switch can be implemented
 
+LinkedIn advise:  
+- It can seem a bit overwhelming at first - but a great first step is just to *write good, semantic html* - using the right elements where they're supposed to be used etc. Also if you're interested in learning more there's a great *accessibility meetup in London*. 
+
 ---------------------   
 
