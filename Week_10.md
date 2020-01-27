@@ -2,7 +2,7 @@
 
 ## Goals  
 
-**Can you solve a challenging technical problem by writing well crafted code? (Well tested, easy to read, easy to change.)**
+*Can you solve a challenging technical problem by writing well crafted code? (Well tested, easy to read, easy to change.)*
 
 Secondary goals:  
 
