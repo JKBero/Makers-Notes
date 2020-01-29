@@ -780,3 +780,41 @@ https://amzn.to/2uqrmIy - Great for looking at popular algorithms like Binary Se
 **Look at for future events on:**
 https://www.meetup.com/Find-A-tech-Job-In-London/events/268108037/
 
+--------------
+--------------
+
+## Tech interview
+
+Question examples:   
+
+https://github.com/makersacademy/jobhunters/tree/master/pills/interviews   
+
+What might you encounter?   
+
+- Take home tech test
+    - complete to deadline; if no deadline, give them a deadline yourself and keep to it
+    - understand the MVP
+    - ask clarifying questions if needed
+    - show tech coaches if you don't at all understand the requirements
+    - README communicates your process
+    - always TDD
+    - be prepared to discuss in interview and/or add new features   
+    
+- Pair programming
+    - ask clarifying questions
+    - explain your process out loud
+    - diagram solutions
+    - be a good pair partner    
+    
+- Past projects
+    - final project will come up, and probably one other
+    - can you sketch the architecture
+    - can you explain what each bit of code does?
+    - team dynamics   
+    
+- Chit chat
+    - high level design - how does the internet work?
+    - trivia - what's the diff between a class and module?
+    - process - is TDD always a good thing? / explain Agile in 30 sec
+    - be confident to say that you don't know; can you be honest when you don't know something   
+
