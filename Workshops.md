@@ -480,7 +480,7 @@ Use ```(this)``` at the end to pass an argument to the function that you're imme
 - Take time to prepare
 - Employers not looking for perfection, but potential
 
-### Example Tech Test - github.com/guardian/coding-exercises/tree/master/fruit-machine
+Example Tech Test - https://github.com/guardian/coding-exercises/tree/master/fruit-machine   
 
 1. BREAK PROBLEM DOWN INTO FEATURES
 
@@ -500,8 +500,8 @@ Use ```(this)``` at the end to pass an argument to the function that you're imme
                     end game           play one
 ```
 
-- Maybe Gherkin doc which will become the feature tests later
-- Ask questions if face to face - they expect this; the brief won't be complete
+- Maybe [Gherkin](https://cucumber.io/docs/gherkin/reference/) doc which will become the feature tests later
+- Ask questions if face-to-face - they expect this; the brief won't be complete
 
 - Consider edge cases at this stage
 
