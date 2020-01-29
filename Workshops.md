@@ -14,6 +14,7 @@ Technical:
 - [Following the flow and getting visibility in JavaScript](#following-the-flow-and-getting-visibility-in-javascript)
 - [The JS Event Loop](#the-js-event-loop)
 - [JavaScript Module Pattern](#javascript-module-pattern)
+- [Tech test planning](#tech-test-planning)
 
 Other:
 - [Feedback workshop](#feedback-workshop)  
@@ -470,6 +471,81 @@ myModule._privateMethod(); // error
 These return values are 'unusual' because the public method works while using the private method, but you can't call the private method itself. This is because of the use of closures. Private method was in the public method's closure.
 
 Use ```(this)``` at the end to pass an argument to the function that you're immediately invoking. ```(this)``` in the console would be the window object. 'this' is the top level scope. Would be more useful to pass in a specific object that you want to create some functionality for.
+
+----------
+----------
+
+## Tech test planning
+
+- Take time to prepare
+- Employers not looking for perfection, but potential
+
+### Example Tech Test - github.com/guardian/coding-exercises/tree/master/fruit-machine
+
+1. BREAK PROBLEM DOWN INTO FEATURES
+
+- User stories & diagramming to uncover the *features*
+- Maybe flow diagram
+
+```
+                            start game
+                                 |
+                        debit 10 from player
+             enough money? ------|------ pull lever
+                            show colours
+                                 |
+                                win?
+                        no ------|------  yes
+                        |                  |
+                    end game           play one
+```
+
+- Maybe Gherkin doc which will become the feature tests later
+- Ask questions if face to face - they expect this; the brief won't be complete
+
+- Consider edge cases at this stage
+
+2. DOMAIN MODELLING
+
+- Nouns & verbs
+- Class diagramming
+- "Types" of actions from user's perspective (paying a fee to pay, starting a game, returning random colours, returning a jackpot, funds management)
+
+Possible units:  
+- Player
+- Fruit machine
+- Slots
+- Random colour
+- Jackpot
+
+- Classes should have state and behaviour
+    - If it only has state, do you need it at all?
+    - If it only has behaviour, should it be a module?
+    - A waterfall diagram is desired, where each class cascades down to the next, rather than using a single class as the interface.
+
+3. EXPERIMENT / RESEARCH
+
+- Spike some code to help guide you and give clarity where you are unsure.
+
+4. PLAN
+
+- Look at user stories (similar to inputs and outputs) and think about what the smallest feature is that you can start with.
+- Put user stories in order of how you want to write the feature tests.
+- Start with a feature.
+- Feature tests and unit tests will be almost identical at the start.
+- Sometimes it is natural that there is a leap between feature test and unit tests; but check you haven't missed a smaller feature you may have missed. Commits vary - you could commit with a failing feature test and make that clear in the commit message, or leave it out.
+- Edge cases go at the end of the plan.
+
+5. SETUP PROJECT (TECH STACK)
+
+- Git
+- Test framework
+- Linter
+- Test coverage
+- README - include all the above thinking; keep it updated as features are built
+- (Wait until you have a need for a dependency before you add that)
+
+6. WRITE FEATURE TEST
 
 ----------
 ----------
