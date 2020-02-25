@@ -52,3 +52,7 @@ I heard the adverts are meant to be going out soon for juniors (I think they're 
 *Sunali S: (LEGO)*   
 
 Tech Stack: Learn React, Javascript graphql and if you want lastly Aws. This is what i use day to day basis.   
+
+*Anon*   
+
+Got most job interviews through meet-ups.
